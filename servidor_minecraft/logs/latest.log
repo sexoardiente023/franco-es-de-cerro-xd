@@ -260,3 +260,9 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [19May2025 17:39:36.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> comida infinita!
 [19May2025 17:39:52.053] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
 [19May2025 17:39:57.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> ban
+[19May2025 17:40:12.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> JA!
+[19May2025 17:44:03.334] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/4718, l='ServerLevel[world]', x=1785.16, y=73.00, z=-673.37] died, message: 'Villager was slain by Zombie'
+[19May2025 17:44:09.936] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/4711, l='ServerLevel[world]', x=1784.35, y=73.00, z=-673.61] died, message: 'Villager was slain by Zombie'
+[19May2025 17:44:37.832] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/4717, l='ServerLevel[world]', x=1785.27, y=73.00, z=-670.44] died, message: 'Villager was slain by Zombie'
+[19May2025 17:44:52.147] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[19May2025 17:49:52.092] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
