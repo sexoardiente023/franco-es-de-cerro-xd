@@ -2776,6 +2776,12 @@
     },
     "done": true
   },
+  "relics:obtain/infinity_ham": {
+    "criteria": {
+      "obtain_relic": "2025-05-19 17:39:15 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/arrow_iron": {
     "criteria": {
       "has_feather": "2025-05-18 21:21:56 +0000"
