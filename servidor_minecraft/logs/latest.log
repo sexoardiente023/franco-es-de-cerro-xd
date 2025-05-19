@@ -231,3 +231,21 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [19May2025 17:08:05.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> tengo un saco de esporas
 [19May2025 17:08:13.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> no se como ponerme
 [19May2025 17:09:28.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> que asco
+[19May2025 17:09:40.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> expulsado del sv
+[19May2025 17:09:51.713] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[19May2025 17:09:52.250] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[19May2025 17:09:57.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> ndahh
+[19May2025 17:10:46.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> zzz
+[19May2025 17:10:56.849] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: FRANCOPR10 lost connection: Disconnected
+[19May2025 17:10:56.849] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: FRANCOPR10 left the game
+[19May2025 17:11:01.790] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@41b4b972
+[19May2025 17:11:01.799] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: FRANCOPR10[/100.111.8.72:50273] logged in with entity id 6116 at (1676.4420674408693, 41.0, -325.215758899038)
+[19May2025 17:11:01.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: FRANCOPR10 joined the game
+[19May2025 17:11:01.808] [Server thread/INFO] [Waila/]: Syncing config to FRANCOPR10 (d9d24099-c47d-3348-ab3a-99bd183119e0)
+[19May2025 17:11:01.809] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player FRANCOPR10
+[19May2025 17:11:01.809] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player FRANCOPR10
+[19May2025 17:11:01.810] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player FRANCOPR10
+[19May2025 17:11:01.810] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player FRANCOPR10
+[19May2025 17:11:01.811] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player FRANCOPR10
+[19May2025 17:14:31.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy has reached the goal [Half a flight]
+[19May2025 17:14:52.167] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]

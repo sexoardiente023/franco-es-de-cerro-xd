@@ -2715,6 +2715,12 @@
     },
     "done": true
   },
+  "relics:obtain/spore_sack": {
+    "criteria": {
+      "obtain_relic": "2025-05-19 17:06:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-05-19 01:43:19 +0000"
