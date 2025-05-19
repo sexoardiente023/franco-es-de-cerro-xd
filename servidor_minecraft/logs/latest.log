@@ -249,3 +249,9 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [19May2025 17:11:01.811] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player FRANCOPR10
 [19May2025 17:14:31.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy has reached the goal [Half a flight]
 [19May2025 17:14:52.167] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[19May2025 17:19:52.220] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[19May2025 17:24:52.051] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[19May2025 17:25:33.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: FRANCOPR10 has made the advancement [Back to childhood]
+[19May2025 17:25:33.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: FRANCOPR10 has made the advancement [Not even afraid of death]
+[19May2025 17:25:39.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> shhh
+[19May2025 17:29:52.061] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
