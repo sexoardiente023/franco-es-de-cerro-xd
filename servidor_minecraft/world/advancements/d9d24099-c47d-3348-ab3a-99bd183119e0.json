@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-05-19 17:00:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-18 21:43:08 +0000"
@@ -86,6 +92,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-18 21:43:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-19 17:00:32 +0000"
     },
     "done": true
   },
@@ -152,6 +164,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2025-05-19 02:17:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-05-19 17:00:32 +0000"
     },
     "done": true
   },
@@ -812,6 +830,12 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/spruce_trim": {
+    "criteria": {
+      "has_planks": "2025-05-19 17:00:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-05-18 21:12:50 +0000"
@@ -917,6 +941,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-05-19 01:43:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
+    "criteria": {
+      "has_the_recipe": "2025-05-19 16:57:00 +0000"
     },
     "done": true
   },
@@ -1166,6 +1196,12 @@
     },
     "done": true
   },
+  "endrem:main/rogue_eye": {
+    "criteria": {
+      "rogue_eye": "2025-05-19 16:59:03 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/katana_iron": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 21:35:06 +0000"
@@ -1229,6 +1265,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2025-05-18 21:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-19 17:00:32 +0000"
     },
     "done": true
   },
@@ -2469,6 +2511,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-05-19 17:00:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-05-19 01:20:30 +0000"
@@ -2562,6 +2610,12 @@
   "dungeons_arise:find_merchant_campsite": {
     "criteria": {
       "location0": "2025-05-19 02:00:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-19 17:00:32 +0000"
     },
     "done": true
   },
@@ -2676,6 +2730,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2025-05-18 21:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_spruce_planks": "2025-05-19 17:00:32 +0000"
     },
     "done": true
   },
@@ -2892,6 +2952,12 @@
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2025-05-18 21:10:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-05-19 17:00:32 +0000"
     },
     "done": true
   },
@@ -3327,6 +3393,12 @@
     },
     "done": true
   },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-05-19 17:01:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2025-05-19 01:10:14 +0000"
@@ -3351,9 +3423,21 @@
     },
     "done": true
   },
+  "endrem:main/root": {
+    "criteria": {
+      "rogue_eye": "2025-05-19 16:59:03 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/pole_from_string": {
     "criteria": {
       "has_stick": "2025-05-18 21:12:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-19 17:00:32 +0000"
     },
     "done": true
   },
