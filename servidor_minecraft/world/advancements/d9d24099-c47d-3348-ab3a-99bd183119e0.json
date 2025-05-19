@@ -3136,6 +3136,12 @@
     },
     "done": true
   },
+  "relics:obtain/holy_locket": {
+    "criteria": {
+      "obtain_relic": "2025-05-19 18:16:42 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/gold_diamond_chest": {
     "criteria": {
       "has_diamonds": "2025-05-19 01:20:30 +0000"
@@ -3607,6 +3613,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-05-18 21:24:28 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/scarab_talisman": {
+    "criteria": {
+      "obtain_relic": "2025-05-19 18:16:42 +0000"
     },
     "done": true
   },

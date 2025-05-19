@@ -275,3 +275,22 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [19May2025 18:05:18.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> con fabri seguimos buscando
 [19May2025 18:05:37.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> bioma lindo queremos!!
 [19May2025 18:09:52.037] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[19May2025 18:12:52.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> encontre el lugar perfecto choco
+[19May2025 18:13:06.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> bioma lindo?
+[19May2025 18:13:14.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> yesss llanura
+[19May2025 18:13:22.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> aldea?
+[19May2025 18:13:26.143] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> con pueblo
+[19May2025 18:13:41.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> ascendedle!!
+[19May2025 18:13:41.744] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> y al lado otro pueblo de arena
+[19May2025 18:13:46.894] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> siuuu
+[19May2025 18:14:09.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> pasa cords despues
+[19May2025 18:14:17.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> dale
+[19May2025 18:14:52.055] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[19May2025 18:16:42.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: FRANCOPR10 has made the advancement [Time to roll the balls]
+[19May2025 18:16:42.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: FRANCOPR10 has made the advancement [Did you see that? Saw that?!]
+[19May2025 18:16:45.271] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy has made the advancement [Welcome To The Jungle]
+[19May2025 18:17:23.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy has made the advancement [Who respects the bees...]
+[19May2025 18:17:35.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> q asquerosoo
+[19May2025 18:17:47.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> ehh
+[19May2025 18:17:58.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> doble artifact
+[19May2025 18:19:52.110] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]

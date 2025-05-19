@@ -1203,6 +1203,12 @@
     },
     "done": true
   },
+  "endrem:main/rogue_eye": {
+    "criteria": {
+      "rogue_eye": "2025-05-19 18:16:45 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/katana_iron": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 21:39:30 +0000"
@@ -1503,6 +1509,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 21:39:30 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/fragrant_flower": {
+    "criteria": {
+      "obtain_relic": "2025-05-19 18:17:23 +0000"
     },
     "done": true
   },
