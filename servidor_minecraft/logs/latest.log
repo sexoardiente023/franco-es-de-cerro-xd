@@ -294,3 +294,15 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [19May2025 18:17:47.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> ehh
 [19May2025 18:17:58.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> doble artifact
 [19May2025 18:19:52.110] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[19May2025 18:21:41.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> nos vemos chocolin
+[19May2025 18:21:50.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> dale
+[19May2025 18:21:53.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> ahi envie las cords en el grupo
+[19May2025 18:22:07.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> messirve
+[19May2025 18:22:37.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> Zzzz
+[19May2025 18:22:48.479] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: FRANCOPR10 lost connection: Disconnected
+[19May2025 18:22:48.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: FRANCOPR10 left the game
+[19May2025 18:24:51.971] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[19May2025 18:29:51.913] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[19May2025 18:32:38.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy has made the advancement [Santa's bag]
+[19May2025 18:34:51.886] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[19May2025 18:39:51.951] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
