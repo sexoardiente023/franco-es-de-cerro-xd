@@ -539,6 +539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-05-20 18:01:30 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/glaive_stone": {
     "criteria": {
       "has_cobblestone": "2025-05-18 21:14:34 +0000"
@@ -1098,6 +1104,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/pike_gold": {
     "criteria": {
       "has_gold_ingot": "2025-05-19 01:43:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-20 18:01:30 +0000"
     },
     "done": true
   },
@@ -2708,7 +2720,8 @@
   },
   "simplefarming:berries": {
     "criteria": {
-      "strawberries": "2025-05-18 21:35:20 +0000"
+      "strawberries": "2025-05-18 21:35:20 +0000",
+      "raspberries": "2025-05-20 18:00:11 +0000"
     },
     "done": false
   },
