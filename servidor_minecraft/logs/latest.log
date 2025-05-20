@@ -328,3 +328,23 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [20May2025 18:15:17.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: FRANCOPR10 has made the advancement [Who respects the bees...]
 [20May2025 18:15:34.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> opa
 [20May2025 18:15:40.440] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[20May2025 18:15:56.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> esto no me puedo poner
+[20May2025 18:16:04.002] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> cabeza
+[20May2025 18:18:49.706] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: chocolinpy lost connection: Disconnected
+[20May2025 18:18:49.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy left the game
+[20May2025 18:20:06.752] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2ea97221
+[20May2025 18:20:06.767] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: chocolinpy[/100.115.122.8:55536] logged in with entity id 14279 at (1656.9357654685398, 50.0, -350.01574946305675)
+[20May2025 18:20:06.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy joined the game
+[20May2025 18:20:06.814] [Server thread/INFO] [Waila/]: Syncing config to chocolinpy (034783f3-fbfc-3708-91b0-59525927d190)
+[20May2025 18:20:06.824] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player chocolinpy
+[20May2025 18:20:06.834] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player chocolinpy
+[20May2025 18:20:06.844] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player chocolinpy
+[20May2025 18:20:06.854] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player chocolinpy
+[20May2025 18:20:06.864] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player chocolinpy
+[20May2025 18:20:06.875] [Server thread/INFO] [antiqueatlas/]: Sending dimension #ResourceKey[minecraft:dimension / minecraft:overworld]
+[20May2025 18:20:06.886] [Server thread/INFO] [antiqueatlas/]: Sent dimension #ResourceKey[minecraft:dimension / minecraft:overworld] (14 tiles)
+[20May2025 18:20:06.895] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #4 data to player chocolinpy
+[20May2025 18:20:40.442] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[20May2025 18:24:17.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> Zzzzzz
+[20May2025 18:24:56.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy has made the advancement [Fortune Seeker]
+[20May2025 18:25:40.510] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]

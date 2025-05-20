@@ -2972,6 +2972,12 @@
     },
     "done": true
   },
+  "endrem:main/old_eye": {
+    "criteria": {
+      "old_eye": "2025-05-20 18:24:56 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/handle_from_string": {
     "criteria": {
       "has_stick": "2025-05-18 21:19:23 +0000"
