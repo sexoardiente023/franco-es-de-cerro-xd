@@ -417,3 +417,5 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [20May2025 19:25:40.056] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
 [20May2025 19:30:40.060] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
 [20May2025 19:35:40.054] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[20May2025 19:40:40.054] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[20May2025 19:45:40.054] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
