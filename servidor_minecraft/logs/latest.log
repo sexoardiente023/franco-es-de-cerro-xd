@@ -90,3 +90,6 @@
 [20May2025 01:38:50.558] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
 [20May2025 01:43:50.715] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
 [20May2025 01:48:50.625] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[20May2025 01:53:50.530] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[20May2025 01:58:50.632] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[20May2025 01:58:56.129] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/484, l='ServerLevel[world]', x=1776.50, y=74.00, z=-702.70] died, message: 'Villager was shot by Pillager'
