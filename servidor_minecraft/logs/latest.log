@@ -397,3 +397,17 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [20May2025 19:05:30.494] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: FRANCOPR10 lost connection: Disconnected
 [20May2025 19:05:30.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: FRANCOPR10 left the game
 [20May2025 19:05:40.058] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[20May2025 19:10:40.055] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[20May2025 19:15:40.054] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[20May2025 19:16:24.792] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@324d7ca2
+[20May2025 19:16:24.807] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: chocolinpy[/100.115.122.8:55967] logged in with entity id 27084 at (1826.7162941412842, 75.0, -684.22965847785)
+[20May2025 19:16:24.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy joined the game
+[20May2025 19:16:24.840] [Server thread/INFO] [Waila/]: Syncing config to chocolinpy (034783f3-fbfc-3708-91b0-59525927d190)
+[20May2025 19:16:24.848] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player chocolinpy
+[20May2025 19:16:24.856] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player chocolinpy
+[20May2025 19:16:24.862] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player chocolinpy
+[20May2025 19:16:24.869] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player chocolinpy
+[20May2025 19:16:24.876] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player chocolinpy
+[20May2025 19:16:24.884] [Server thread/INFO] [antiqueatlas/]: Sending dimension #ResourceKey[minecraft:dimension / minecraft:overworld]
+[20May2025 19:16:24.890] [Server thread/INFO] [antiqueatlas/]: Sent dimension #ResourceKey[minecraft:dimension / minecraft:overworld] (14 tiles)
+[20May2025 19:16:24.896] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #4 data to player chocolinpy
