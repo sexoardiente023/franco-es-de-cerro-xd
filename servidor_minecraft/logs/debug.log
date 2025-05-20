@@ -4271,3 +4271,11 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [20May2025 18:55:40.331] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
 [20May2025 18:55:40.339] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [20May2025 18:55:40.342] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20May2025 19:00:40.207] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[20May2025 19:00:40.215] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20May2025 19:00:40.218] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20May2025 19:05:30.494] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: FRANCOPR10 lost connection: Disconnected
+[20May2025 19:05:30.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: FRANCOPR10 left the game
+[20May2025 19:05:40.058] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[20May2025 19:05:40.066] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20May2025 19:05:40.070] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

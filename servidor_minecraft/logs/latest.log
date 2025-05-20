@@ -393,3 +393,7 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [20May2025 18:52:00.759] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: chocolinpy lost connection: Disconnected
 [20May2025 18:52:00.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy left the game
 [20May2025 18:55:40.331] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[20May2025 19:00:40.207] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[20May2025 19:05:30.494] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: FRANCOPR10 lost connection: Disconnected
+[20May2025 19:05:30.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: FRANCOPR10 left the game
+[20May2025 19:05:40.058] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
