@@ -88,3 +88,5 @@
 [20May2025 01:31:43.476] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1e5dd49e
 [20May2025 01:33:50.668] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
 [20May2025 01:38:50.558] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[20May2025 01:43:50.715] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[20May2025 01:48:50.625] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
