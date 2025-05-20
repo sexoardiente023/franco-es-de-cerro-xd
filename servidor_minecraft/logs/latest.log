@@ -3,3 +3,6 @@
 [20May2025 00:03:28.038] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #4 data to player chocolinpy
 [20May2025 00:03:47.954] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
 [20May2025 00:03:48.311] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[20May2025 00:08:48.620] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[20May2025 00:13:48.394] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[20May2025 00:17:49.012] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Fabrioreos> zz
