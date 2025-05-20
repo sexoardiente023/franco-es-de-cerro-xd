@@ -3737,3 +3737,43 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [20May2025 00:34:36.462] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
 [20May2025 00:36:46.188] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
 [20May2025 00:36:46.189] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20May2025 00:38:48.404] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[20May2025 00:38:48.404] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20May2025 00:38:48.408] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20May2025 00:39:45.300] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1855, y=74, z=-635} BlockPos{x=1857, y=72, z=-635}
+[20May2025 00:39:45.349] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1855, y=74, z=-635} BlockPos{x=1857, y=72, z=-635}
+[20May2025 00:39:45.801] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1858, y=74, z=-637} BlockPos{x=1857, y=73, z=-639}
+[20May2025 00:39:45.848] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1858, y=74, z=-637} BlockPos{x=1857, y=73, z=-639}
+[20May2025 00:39:46.503] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1861, y=74, z=-634} BlockPos{x=1860, y=72, z=-632}
+[20May2025 00:39:46.548] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1861, y=74, z=-634} BlockPos{x=1860, y=72, z=-632}
+[20May2025 00:39:49.464] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1856, y=74, z=-631} BlockPos{x=1855, y=72, z=-630}
+[20May2025 00:42:22.281] [Worker-Main-5/DEBUG] [mixin/]: Mixing JigsawManagerAssemblerMixin from mixins.waystones.json into net.minecraft.world.gen.feature.jigsaw.JigsawManager$Assembler
+[20May2025 00:42:22.282] [Worker-Main-5/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$2(Lnet/minecraft/world/gen/feature/jigsaw/JigsawPiece;)Z to md0d3fcc$lambda$getShuffledPieces$2$0 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[20May2025 00:42:22.282] [Worker-Main-5/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$1(Ljava/lang/String;)Z to md0d3fcc$lambda$getShuffledPieces$1$1 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[20May2025 00:42:22.282] [Worker-Main-5/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$0(Ljava/lang/Object;)Ljava/lang/String; to md0d3fcc$lambda$getShuffledPieces$0$2 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[20May2025 00:42:23.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has made the advancement [We Need to Go Deeper]
+[20May2025 00:42:23.870] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has made the advancement [A Terrible Fortress]
+[20May2025 00:42:25.087] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2371ms or 47 ticks behind
+[20May2025 00:42:25.121] [Server thread/INFO] [antiqueatlas/]: Sending dimension #ResourceKey[minecraft:dimension / minecraft:the_nether]
+[20May2025 00:42:25.122] [Server thread/INFO] [antiqueatlas/]: Sent dimension #ResourceKey[minecraft:dimension / minecraft:the_nether] (3 tiles)
+[20May2025 00:42:25.122] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #2 data to player Fabrioreos
+[20May2025 00:42:41.894] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[20May2025 00:42:41.895] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20May2025 00:43:11.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has made the advancement [Those Were the Days]
+[20May2025 00:43:21.588] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[20May2025 00:43:21.589] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20May2025 00:43:24.039] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[20May2025 00:43:24.040] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20May2025 00:43:51.296] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[20May2025 00:43:51.296] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20May2025 00:43:51.301] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20May2025 00:45:12.147] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has made the advancement [Into Fire]
+[20May2025 00:45:21.744] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy has made the advancement [What a Deal!]
+[20May2025 00:48:38.083] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy has made the advancement [We Need to Go Deeper]
+[20May2025 00:48:38.183] [Server thread/INFO] [antiqueatlas/]: Sending dimension #ResourceKey[minecraft:dimension / minecraft:the_nether]
+[20May2025 00:48:38.184] [Server thread/INFO] [antiqueatlas/]: Sent dimension #ResourceKey[minecraft:dimension / minecraft:the_nether] (3 tiles)
+[20May2025 00:48:38.184] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #4 data to player chocolinpy
+[20May2025 00:48:39.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy has made the advancement [A Terrible Fortress]
+[20May2025 00:48:51.052] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[20May2025 00:48:51.052] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20May2025 00:48:51.056] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

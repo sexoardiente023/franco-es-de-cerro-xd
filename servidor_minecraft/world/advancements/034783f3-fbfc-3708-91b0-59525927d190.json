@@ -1669,6 +1669,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-05-20 00:48:39 +0000"
+    },
+    "done": false
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/boomerang_iron": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 21:39:30 +0000"
@@ -1864,6 +1870,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/longsword_stone": {
     "criteria": {
       "has_cobblestone": "2025-05-18 21:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-20 00:48:38 +0000"
     },
     "done": true
   },
@@ -2621,6 +2633,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-20 00:48:38 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/rapier_gold": {
     "criteria": {
       "has_gold_ingot": "2025-05-18 21:53:36 +0000"
@@ -2630,6 +2648,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/pike_wood": {
     "criteria": {
       "has_wood": "2025-05-18 21:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-20 00:45:21 +0000"
     },
     "done": true
   },
@@ -2864,6 +2888,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/longsword_diamond": {
     "criteria": {
       "has_diamond": "2025-05-19 02:19:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-05-20 00:48:39 +0000"
     },
     "done": true
   },
