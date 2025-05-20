@@ -1005,6 +1005,12 @@
     },
     "done": true
   },
+  "relics:obtain/ghost_skin_talisman": {
+    "criteria": {
+      "obtain_relic": "2025-05-20 18:10:28 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
     "criteria": {
       "has_the_recipe": "2025-05-19 16:57:00 +0000"
@@ -1611,6 +1617,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 21:35:06 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/fragrant_flower": {
+    "criteria": {
+      "obtain_relic": "2025-05-20 18:15:17 +0000"
     },
     "done": true
   },
@@ -2655,6 +2667,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/spear_iron": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 21:35:06 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/leather_belt": {
+    "criteria": {
+      "obtain_relic": "2025-05-20 18:10:42 +0000"
     },
     "done": true
   },
@@ -3766,6 +3784,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bonemeal": "2025-05-20 17:35:30 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/horse_flute": {
+    "criteria": {
+      "obtain_relic": "2025-05-20 18:06:48 +0000"
     },
     "done": true
   },

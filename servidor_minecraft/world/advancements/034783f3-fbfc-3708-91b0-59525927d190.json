@@ -2817,7 +2817,8 @@
   },
   "simplefarming:berries": {
     "criteria": {
-      "strawberries": "2025-05-20 01:55:30 +0000"
+      "strawberries": "2025-05-20 01:55:30 +0000",
+      "raspberries": "2025-05-20 18:09:35 +0000"
     },
     "done": false
   },

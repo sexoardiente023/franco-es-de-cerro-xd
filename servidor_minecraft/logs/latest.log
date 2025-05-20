@@ -243,3 +243,88 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [20May2025 18:05:31.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> q
 [20May2025 18:05:36.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> JAJAAAJJA
 [20May2025 18:05:40.466] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[20May2025 18:06:00.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> asqueroso
+[20May2025 18:06:06.782] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: FRANCOPR10 lost connection: Kicked by an operator
+[20May2025 18:06:06.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: FRANCOPR10 left the game
+[20May2025 18:06:06.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Kicked FRANCOPR10: Kicked by an operator]
+[20May2025 18:06:06.831] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[20May2025 18:06:12.005] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@55cf27cb
+[20May2025 18:06:12.022] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: FRANCOPR10[/100.111.8.72:64875] logged in with entity id 11928 at (1864.1695099603019, 73.0, -629.3106712767755)
+[20May2025 18:06:12.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: FRANCOPR10 joined the game
+[20May2025 18:06:12.076] [Server thread/INFO] [Waila/]: Syncing config to FRANCOPR10 (d9d24099-c47d-3348-ab3a-99bd183119e0)
+[20May2025 18:06:12.087] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player FRANCOPR10
+[20May2025 18:06:12.107] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player FRANCOPR10
+[20May2025 18:06:12.113] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player FRANCOPR10
+[20May2025 18:06:12.123] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player FRANCOPR10
+[20May2025 18:06:12.133] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player FRANCOPR10
+[20May2025 18:06:19.997] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> jajajajajaj
+[20May2025 18:06:25.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> q pio es eso
+[20May2025 18:06:35.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> flauta de caballo
+[20May2025 18:06:45.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> mira
+[20May2025 18:06:46.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> Ndaaa
+[20May2025 18:06:48.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: FRANCOPR10 has made the advancement [Pied Piper]
+[20May2025 18:07:11.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> q facha
+[20May2025 18:07:32.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> mira
+[20May2025 18:07:42.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> metele
+[20May2025 18:07:52.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> y sacale ahora y corre
+[20May2025 18:08:04.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> alejate
+[20May2025 18:08:05.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> JAJAJJA
+[20May2025 18:08:15.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> aahhh
+[20May2025 18:08:46.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> no hace falta darle tampoco
+[20May2025 18:09:10.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Kicked FRANCOPR10: Kicked by an operator]
+[20May2025 18:09:10.256] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: FRANCOPR10 lost connection: Kicked by an operator
+[20May2025 18:09:10.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: FRANCOPR10 left the game
+[20May2025 18:09:14.815] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7fe4f6c2
+[20May2025 18:09:14.835] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: FRANCOPR10[/100.111.8.72:65046] logged in with entity id 12284 at (1803.7109063363034, 71.8500000178814, -625.66329106563)
+[20May2025 18:09:14.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: FRANCOPR10 joined the game
+[20May2025 18:09:14.895] [Server thread/INFO] [Waila/]: Syncing config to FRANCOPR10 (d9d24099-c47d-3348-ab3a-99bd183119e0)
+[20May2025 18:09:14.903] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player FRANCOPR10
+[20May2025 18:09:14.909] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player FRANCOPR10
+[20May2025 18:09:14.916] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player FRANCOPR10
+[20May2025 18:09:14.922] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player FRANCOPR10
+[20May2025 18:09:14.929] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player FRANCOPR10
+[20May2025 18:09:23.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> disparame y mira lo que pasa
+[20May2025 18:09:24.015] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> q ascoo HASDHASDADSASD
+[20May2025 18:09:37.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> dispara
+[20May2025 18:09:41.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> no podes darme
+[20May2025 18:09:57.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> cha
+[20May2025 18:10:01.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> creativo
+[20May2025 18:10:13.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> un artifact es
+[20May2025 18:10:15.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> mira
+[20May2025 18:10:28.056] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: FRANCOPR10 has made the advancement [Spooky Scary Skeletons]
+[20May2025 18:10:40.383] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[20May2025 18:10:42.897] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: FRANCOPR10 has made the advancement [Be obedient]
+[20May2025 18:10:56.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> ponete el cinturon
+[20May2025 18:11:03.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> - 50 DE VELovidad de ataque
+[20May2025 18:11:13.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> oleee
+[20May2025 18:11:14.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> jajaja
+[20May2025 18:11:28.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> SR PRESIDENTE
+[20May2025 18:11:28.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> ya
+[20May2025 18:11:38.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> tengo el cintueron
+[20May2025 18:11:43.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> si tenes los guantes de fabri le hace counter
+[20May2025 18:12:20.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> ehh
+[20May2025 18:12:27.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> tu casa?
+[20May2025 18:12:37.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> por aca
+[20May2025 18:13:21.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> Zzzz
+[20May2025 18:13:37.744] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: chocolinpy lost connection: Disconnected
+[20May2025 18:13:37.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy left the game
+[20May2025 18:13:48.456] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6142314f
+[20May2025 18:13:48.470] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: chocolinpy[/100.115.122.8:55243] logged in with entity id 13095 at (1608.8654447814206, 68.0, -470.4443292890965)
+[20May2025 18:13:48.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy joined the game
+[20May2025 18:13:48.525] [Server thread/INFO] [Waila/]: Syncing config to chocolinpy (034783f3-fbfc-3708-91b0-59525927d190)
+[20May2025 18:13:48.532] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player chocolinpy
+[20May2025 18:13:48.540] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player chocolinpy
+[20May2025 18:13:48.547] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player chocolinpy
+[20May2025 18:13:48.553] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player chocolinpy
+[20May2025 18:13:48.560] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player chocolinpy
+[20May2025 18:13:48.568] [Server thread/INFO] [antiqueatlas/]: Sending dimension #ResourceKey[minecraft:dimension / minecraft:overworld]
+[20May2025 18:13:48.575] [Server thread/INFO] [antiqueatlas/]: Sent dimension #ResourceKey[minecraft:dimension / minecraft:overworld] (11 tiles)
+[20May2025 18:13:48.581] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #4 data to player chocolinpy
+[20May2025 18:14:11.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> buena cass
+[20May2025 18:14:17.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> gracias bro
+[20May2025 18:15:01.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> bueno me voy
+[20May2025 18:15:07.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> dale rey
+[20May2025 18:15:08.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> te regalo esto
+[20May2025 18:15:17.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: FRANCOPR10 has made the advancement [Who respects the bees...]
+[20May2025 18:15:34.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> opa
+[20May2025 18:15:40.440] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
