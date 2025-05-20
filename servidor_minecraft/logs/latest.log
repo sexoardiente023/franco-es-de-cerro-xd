@@ -411,3 +411,7 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [20May2025 19:16:24.884] [Server thread/INFO] [antiqueatlas/]: Sending dimension #ResourceKey[minecraft:dimension / minecraft:overworld]
 [20May2025 19:16:24.890] [Server thread/INFO] [antiqueatlas/]: Sent dimension #ResourceKey[minecraft:dimension / minecraft:overworld] (14 tiles)
 [20May2025 19:16:24.896] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #4 data to player chocolinpy
+[20May2025 19:20:40.379] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[20May2025 19:24:55.844] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: chocolinpy lost connection: Timed out
+[20May2025 19:24:55.849] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy left the game
+[20May2025 19:25:40.056] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
