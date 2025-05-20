@@ -351,3 +351,45 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [20May2025 18:30:40.468] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
 [20May2025 18:35:18.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> Zzzzz
 [20May2025 18:35:40.497] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[20May2025 18:39:38.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: FRANCOPR10 has made the advancement [Neighborhood Brawl]
+[20May2025 18:39:52.361] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> Yo soy de BARRIOO
+[20May2025 18:39:57.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> A CASA
+[20May2025 18:40:06.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> ban!!
+[20May2025 18:40:21.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> Perunano de mrd!!
+[20May2025 18:40:32.660] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> que asco
+[20May2025 18:40:40.461] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[20May2025 18:41:34.680] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1502, y=61, z=-372} BlockPos{x=1500, y=60, z=-373}
+[20May2025 18:41:34.721] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1502, y=61, z=-372} BlockPos{x=1500, y=60, z=-373}
+[20May2025 18:41:34.764] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1502, y=61, z=-372} BlockPos{x=1500, y=60, z=-373}
+[20May2025 18:45:40.637] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[20May2025 18:46:25.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> zzzzzzz
+[20May2025 18:46:25.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> zz
+[20May2025 18:46:26.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> zzzz
+[20May2025 18:46:26.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> z
+[20May2025 18:46:26.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> z
+[20May2025 18:46:26.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> z
+[20May2025 18:46:26.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> z
+[20May2025 18:46:26.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> z
+[20May2025 18:46:27.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> z
+[20May2025 18:46:27.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> zz
+[20May2025 18:46:27.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> z
+[20May2025 18:46:27.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> z
+[20May2025 18:46:27.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> z
+[20May2025 18:46:27.664] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: FRANCOPR10 lost connection: Kicked for spamming
+[20May2025 18:46:27.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: FRANCOPR10 left the game
+[20May2025 18:46:33.357] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4da3fbf
+[20May2025 18:46:33.377] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: FRANCOPR10[/100.111.8.72:51086] logged in with entity id 23146 at (1607.5, 68.875, -467.5)
+[20May2025 18:46:33.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: FRANCOPR10 joined the game
+[20May2025 18:46:33.410] [Server thread/INFO] [Waila/]: Syncing config to FRANCOPR10 (d9d24099-c47d-3348-ab3a-99bd183119e0)
+[20May2025 18:46:33.421] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player FRANCOPR10
+[20May2025 18:46:33.431] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player FRANCOPR10
+[20May2025 18:46:33.440] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player FRANCOPR10
+[20May2025 18:46:33.450] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player FRANCOPR10
+[20May2025 18:46:33.459] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player FRANCOPR10
+[20May2025 18:46:47.971] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> zzz
+[20May2025 18:46:50.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> Zzzzzz
+[20May2025 18:50:40.545] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[20May2025 18:51:59.315] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> ya vuelvo
+[20May2025 18:52:00.759] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: chocolinpy lost connection: Disconnected
+[20May2025 18:52:00.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy left the game
+[20May2025 18:55:40.331] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
