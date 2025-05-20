@@ -2976,3 +2976,9 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [20May2025 16:50:40.751] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
 [20May2025 16:50:40.752] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [20May2025 16:50:40.759] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20May2025 16:55:40.227] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[20May2025 16:55:40.228] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20May2025 16:55:40.232] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20May2025 17:00:40.213] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[20May2025 17:00:40.214] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20May2025 17:00:40.220] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

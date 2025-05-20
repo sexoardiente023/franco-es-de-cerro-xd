@@ -211,3 +211,5 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [20May2025 16:48:46.520] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player FRANCOPR10
 [20May2025 16:50:40.083] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
 [20May2025 16:50:40.751] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[20May2025 16:55:40.227] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[20May2025 17:00:40.213] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
