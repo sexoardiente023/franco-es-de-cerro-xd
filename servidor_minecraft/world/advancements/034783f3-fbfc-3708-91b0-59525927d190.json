@@ -666,6 +666,7 @@
       "minecraft:spider": "2025-05-18 21:23:49 +0000",
       "minecraft:creeper": "2025-05-18 21:21:53 +0000",
       "minecraft:wither_skeleton": "2025-05-19 02:20:59 +0000",
+      "minecraft:husk": "2025-05-19 23:57:55 +0000",
       "minecraft:cave_spider": "2025-05-19 02:10:56 +0000",
       "minecraft:enderman": "2025-05-18 21:22:20 +0000",
       "minecraft:silverfish": "2025-05-19 02:12:08 +0000",
@@ -1032,6 +1033,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/battleaxe_gold": {
     "criteria": {
       "has_gold_ingot": "2025-05-18 21:53:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2025-05-19 23:56:41 +0000"
     },
     "done": true
   },
@@ -1656,6 +1663,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-05-20 00:01:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_leggings": "2025-05-19 02:14:58 +0000"
@@ -1713,6 +1726,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-05-18 21:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-05-20 00:01:26 +0000"
     },
     "done": true
   },
