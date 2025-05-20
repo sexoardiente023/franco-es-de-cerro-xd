@@ -44,3 +44,8 @@
 [20May2025 00:54:05.448] [Server thread/INFO] [antiqueatlas/]: Sent markers data #4 to player chocolinpy
 [20May2025 00:54:07.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy has reached the goal [Here They Come]
 [20May2025 00:58:51.042] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[20May2025 01:03:18.689] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Fabrioreos lost connection: Disconnected
+[20May2025 01:03:18.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos left the game
+[20May2025 01:03:50.840] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[20May2025 01:04:24.479] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1862, y=71, z=-692} BlockPos{x=1861, y=71, z=-692}
+[20May2025 01:08:50.591] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
