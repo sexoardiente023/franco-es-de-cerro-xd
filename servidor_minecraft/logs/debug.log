@@ -4947,3 +4947,12 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [20May2025 01:18:50.640] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
 [20May2025 01:18:50.641] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [20May2025 01:18:50.645] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20May2025 01:19:55.889] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Fabrioreos lost connection: Disconnected
+[20May2025 01:19:55.890] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos left the game
+[20May2025 01:23:50.633] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[20May2025 01:23:50.633] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20May2025 01:23:50.637] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20May2025 01:24:57.447] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1813, y=70, z=-670} BlockPos{x=1813, y=68, z=-670}
+[20May2025 01:28:50.560] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[20May2025 01:28:50.562] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20May2025 01:28:50.567] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
