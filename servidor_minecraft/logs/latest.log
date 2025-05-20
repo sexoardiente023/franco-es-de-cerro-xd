@@ -215,3 +215,5 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [20May2025 22:20:28.753] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of chocolinpy) moved wrongly! 0.4367484655590488
 [20May2025 22:20:28.776] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of chocolinpy) moved wrongly! 0.4485333742426292
 [20May2025 22:20:28.831] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of chocolinpy) moved wrongly! 0.4548392439135114
+[20May2025 22:22:38.627] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[20May2025 22:27:38.553] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
