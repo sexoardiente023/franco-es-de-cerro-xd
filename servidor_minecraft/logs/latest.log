@@ -72,3 +72,9 @@
 [21May2025 01:17:38.350] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
 [21May2025 01:19:01.147] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Cleric'/640, l='ServerLevel[world]', x=1812.50, y=69.00, z=-766.70] died, message: 'Cleric was slain by Husk'
 [21May2025 01:22:38.311] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[21May2025 01:25:54.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy has made the advancement [Enchanter]
+[21May2025 01:27:38.336] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[21May2025 01:31:29.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set the time to 1000]
+[21May2025 01:31:56.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[21May2025 01:32:06.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[21May2025 01:32:38.343] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
