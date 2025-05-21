@@ -19,3 +19,24 @@
 [21May2025 00:22:30.468] [Server thread/INFO] [antiqueatlas/]: Sent markers data #2 to player Fabrioreos
 [21May2025 00:22:38.183] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
 [21May2025 00:22:38.499] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[21May2025 00:25:05.810] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Fabrioreos lost connection: Disconnected
+[21May2025 00:25:05.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos left the game
+[21May2025 00:26:34.215] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4412185b
+[21May2025 00:26:34.225] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Fabrioreos[/100.106.168.72:63512] logged in with entity id 20486 at (1798.9114875353553, 71.0, -534.5403255363038)
+[21May2025 00:26:34.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos joined the game
+[21May2025 00:26:34.252] [Server thread/INFO] [Waila/]: Syncing config to Fabrioreos (7d4ac431-ff3f-3f0b-8be5-35cee69540cb)
+[21May2025 00:26:34.253] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player Fabrioreos
+[21May2025 00:26:34.254] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[21May2025 00:26:34.254] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[21May2025 00:26:34.254] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[21May2025 00:26:34.254] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[21May2025 00:26:34.255] [Server thread/INFO] [antiqueatlas/]: Sending dimension #ResourceKey[minecraft:dimension / minecraft:overworld]
+[21May2025 00:26:34.258] [Server thread/INFO] [antiqueatlas/]: Sent dimension #ResourceKey[minecraft:dimension / minecraft:overworld] (28 tiles)
+[21May2025 00:26:34.258] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #2 data to player Fabrioreos
+[21May2025 00:26:34.259] [Server thread/INFO] [antiqueatlas/]: Sent markers data #2 to player Fabrioreos
+[21May2025 00:27:38.432] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[21May2025 00:27:55.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[21May2025 00:28:17.260] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Fabrioreos lost connection: Disconnected
+[21May2025 00:28:17.261] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos left the game
+[21May2025 00:29:03.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[21May2025 00:32:38.432] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
