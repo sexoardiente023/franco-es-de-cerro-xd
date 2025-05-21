@@ -69,3 +69,6 @@
 [21May2025 01:03:53.206] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/540, l='ServerLevel[world]', x=1746.30, y=73.00, z=-635.15] died, message: 'Farmer was slain by Zombie'
 [21May2025 01:07:38.402] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
 [21May2025 01:12:38.332] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[21May2025 01:17:38.350] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[21May2025 01:19:01.147] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Cleric'/640, l='ServerLevel[world]', x=1812.50, y=69.00, z=-766.70] died, message: 'Cleric was slain by Husk'
+[21May2025 01:22:38.311] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
