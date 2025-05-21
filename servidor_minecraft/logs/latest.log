@@ -61,3 +61,5 @@
 [21May2025 00:38:13.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
 [21May2025 00:38:29.836] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
 [21May2025 00:42:38.406] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[21May2025 00:47:38.286] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[21May2025 00:52:38.327] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
