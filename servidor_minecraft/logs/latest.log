@@ -1,3 +1,21 @@
 [21May2025 00:02:38.334] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
 [21May2025 00:07:38.305] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
 [21May2025 00:12:38.305] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[21May2025 00:17:38.332] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[21May2025 00:21:12.014] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channels [carryon:carryonpackets,sophisticatedbackpacks:channel,citadel:main_channel,storagedrawers:main_channel,walljump:network,curios:main,enhancedcelestials:network,cataclysm:main_channel,usefulbackpacks:curios,tombstone:tombstone_channel,mowziesmobs:net,paraglider:master,uteamcore:network,artifacts:main,ironchest:network,spartanweaponry:network,geckolib3:main,elevatorid:main_channel,waystones:network] rejected vanilla connections
+[21May2025 00:21:12.014] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[21May2025 00:22:30.416] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@78ad42e7
+[21May2025 00:22:30.426] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Fabrioreos[/100.106.168.72:63305] logged in with entity id 19783 at (1798.9114875353553, 71.0, -534.5403255363038)
+[21May2025 00:22:30.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos joined the game
+[21May2025 00:22:30.456] [Server thread/INFO] [Waila/]: Syncing config to Fabrioreos (7d4ac431-ff3f-3f0b-8be5-35cee69540cb)
+[21May2025 00:22:30.457] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player Fabrioreos
+[21May2025 00:22:30.458] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[21May2025 00:22:30.458] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[21May2025 00:22:30.458] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[21May2025 00:22:30.459] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[21May2025 00:22:30.464] [Server thread/INFO] [antiqueatlas/]: Sending dimension #ResourceKey[minecraft:dimension / minecraft:overworld]
+[21May2025 00:22:30.466] [Server thread/INFO] [antiqueatlas/]: Sent dimension #ResourceKey[minecraft:dimension / minecraft:overworld] (28 tiles)
+[21May2025 00:22:30.467] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #2 data to player Fabrioreos
+[21May2025 00:22:30.468] [Server thread/INFO] [antiqueatlas/]: Sent markers data #2 to player Fabrioreos
+[21May2025 00:22:38.183] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[21May2025 00:22:38.499] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
