@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-05-22 23:44:07 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/parrying_dagger_wood": {
     "criteria": {
       "has_wood": "2025-05-18 21:19:13 +0000"
@@ -446,6 +452,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-19 01:11:49 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:the_bumblezone/pollen_pile/walk_into_pollen_pile": {
+    "criteria": {
+      "walk_into_pollen_pile": "2025-05-22 23:43:57 +0000"
     },
     "done": true
   },
@@ -799,6 +811,7 @@
       "minecraft:enderman": "2025-05-18 21:22:20 +0000",
       "minecraft:silverfish": "2025-05-19 02:12:08 +0000",
       "minecraft:stray": "2025-05-19 02:15:57 +0000",
+      "minecraft:endermite": "2025-05-22 23:47:45 +0000",
       "minecraft:zombie": "2025-05-18 21:20:14 +0000",
       "minecraft:zombie_villager": "2025-05-19 01:43:59 +0000"
     },
@@ -1089,6 +1102,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-05-18 21:52:55 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:the_bumblezone/teleportation/teleport_to_bumblezone_pearl": {
+    "criteria": {
+      "teleport_to_bumblezone_pearl": "2025-05-22 23:43:53 +0000"
     },
     "done": true
   },
@@ -1623,6 +1642,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-05-18 21:29:12 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:the_bumblezone/root": {
+    "criteria": {
+      "entered_bumblezone": "2025-05-22 23:43:54 +0000"
     },
     "done": true
   },
@@ -3864,6 +3889,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-05-18 22:14:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-05-22 23:44:07 +0000"
     },
     "done": true
   },

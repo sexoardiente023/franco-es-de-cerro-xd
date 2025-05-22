@@ -308,3 +308,36 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [22May2025 23:31:45.946] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
 [22May2025 23:32:51.532] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
 [22May2025 23:37:51.464] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[22May2025 23:38:23.051] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@71dad071
+[22May2025 23:38:23.061] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Fabrioreos[/100.106.168.72:56728] logged in with entity id 13404 at (1798.9114875353553, 71.0, -534.5403255363038)
+[22May2025 23:38:23.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos joined the game
+[22May2025 23:38:23.085] [Server thread/INFO] [Waila/]: Syncing config to Fabrioreos (7d4ac431-ff3f-3f0b-8be5-35cee69540cb)
+[22May2025 23:38:23.086] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player Fabrioreos
+[22May2025 23:38:23.086] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[22May2025 23:38:23.086] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[22May2025 23:38:23.086] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[22May2025 23:38:23.087] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[22May2025 23:38:23.087] [Server thread/INFO] [antiqueatlas/]: Sending dimension #ResourceKey[minecraft:dimension / minecraft:overworld]
+[22May2025 23:38:23.090] [Server thread/INFO] [antiqueatlas/]: Sent dimension #ResourceKey[minecraft:dimension / minecraft:overworld] (28 tiles)
+[22May2025 23:38:23.090] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #2 data to player Fabrioreos
+[22May2025 23:38:23.090] [Server thread/INFO] [antiqueatlas/]: Sent markers data #2 to player Fabrioreos
+[22May2025 23:41:36.803] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: chocolinpy moved wrongly!
+[22May2025 23:42:51.666] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[22May2025 23:43:53.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy has made the advancement [Beenderman Intrusion!]
+[22May2025 23:43:54.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy has made the advancement [The Buzzing Bumbling Bumblezone!]
+[22May2025 23:43:57.211] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3581ms or 71 ticks behind
+[22May2025 23:43:57.262] [Server thread/INFO] [antiqueatlas/]: Sending dimension #ResourceKey[minecraft:dimension / the_bumblezone:the_bumblezone]
+[22May2025 23:43:57.263] [Server thread/INFO] [antiqueatlas/]: Sent dimension #ResourceKey[minecraft:dimension / the_bumblezone:the_bumblezone] (1 tiles)
+[22May2025 23:43:57.263] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #4 data to player chocolinpy
+[22May2025 23:43:57.554] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy has made the advancement [Tons Of Pollen Can't Bee Healthy...]
+[22May2025 23:44:03.452] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has made the advancement [Beenderman Intrusion!]
+[22May2025 23:44:03.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has made the advancement [The Buzzing Bumbling Bumblezone!]
+[22May2025 23:44:04.173] [Server thread/INFO] [antiqueatlas/]: Sending dimension #ResourceKey[minecraft:dimension / the_bumblezone:the_bumblezone]
+[22May2025 23:44:04.174] [Server thread/INFO] [antiqueatlas/]: Sent dimension #ResourceKey[minecraft:dimension / the_bumblezone:the_bumblezone] (4 tiles)
+[22May2025 23:44:04.174] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #2 data to player Fabrioreos
+[22May2025 23:44:05.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has made the advancement [Tons Of Pollen Can't Bee Healthy...]
+[22May2025 23:44:37.214] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=378, y=103, z=-166} but found not block entity block Block{minecraft:cave_air} at location
+[22May2025 23:44:37.214] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=378, y=103, z=-166}
+[22May2025 23:44:37.214] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=379, y=103, z=-165} but found not block entity block Block{minecraft:cave_air} at location
+[22May2025 23:44:37.214] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=379, y=103, z=-165}
+[22May2025 23:47:55.752] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
