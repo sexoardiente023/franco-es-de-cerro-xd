@@ -213,3 +213,52 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [22May2025 22:32:51.499] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
 [22May2025 22:33:46.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
 [22May2025 22:34:15.056] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[22May2025 22:37:51.779] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[22May2025 22:39:08.210] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7459337d
+[22May2025 22:39:08.222] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Fabrioreos[/100.106.168.72:55204] logged in with entity id 2858 at (1798.9114875353553, 71.0, -534.5403255363038)
+[22May2025 22:39:08.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos joined the game
+[22May2025 22:39:08.258] [Server thread/INFO] [Waila/]: Syncing config to Fabrioreos (7d4ac431-ff3f-3f0b-8be5-35cee69540cb)
+[22May2025 22:39:08.260] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player Fabrioreos
+[22May2025 22:39:08.260] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[22May2025 22:39:08.261] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[22May2025 22:39:08.261] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[22May2025 22:39:08.261] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[22May2025 22:39:08.272] [Server thread/INFO] [antiqueatlas/]: Sending dimension #ResourceKey[minecraft:dimension / minecraft:overworld]
+[22May2025 22:39:08.275] [Server thread/INFO] [antiqueatlas/]: Sent dimension #ResourceKey[minecraft:dimension / minecraft:overworld] (28 tiles)
+[22May2025 22:39:08.276] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #2 data to player Fabrioreos
+[22May2025 22:39:08.277] [Server thread/INFO] [antiqueatlas/]: Sent markers data #2 to player Fabrioreos
+[22May2025 22:39:13.827] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[22May2025 22:39:24.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> ds
+[22May2025 22:40:21.750] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Fabrioreos lost connection: Disconnected
+[22May2025 22:40:21.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos left the game
+[22May2025 22:41:16.216] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@24a0cee9
+[22May2025 22:41:16.231] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: FRANCOPR10[/100.106.168.72:55356] logged in with entity id 3381 at (1598.511296118336, 69.0, -456.3096256254998)
+[22May2025 22:41:16.233] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: FRANCOPR10 joined the game
+[22May2025 22:41:16.250] [Server thread/INFO] [Waila/]: Syncing config to FRANCOPR10 (d9d24099-c47d-3348-ab3a-99bd183119e0)
+[22May2025 22:41:16.251] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player FRANCOPR10
+[22May2025 22:41:16.252] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player FRANCOPR10
+[22May2025 22:41:16.252] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player FRANCOPR10
+[22May2025 22:41:16.252] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player FRANCOPR10
+[22May2025 22:41:16.253] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player FRANCOPR10
+[22May2025 22:42:05.251] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: FRANCOPR10 lost connection: Disconnected
+[22May2025 22:42:05.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: FRANCOPR10 left the game
+[22May2025 22:42:51.359] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[22May2025 22:42:51.807] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[22May2025 22:42:54.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set the time to 1000]
+[22May2025 22:43:31.606] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6af0186f
+[22May2025 22:43:31.616] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: FRANCOPR10[/100.106.168.72:55550] logged in with entity id 3916 at (1598.511296118336, 69.0, -456.3096256254998)
+[22May2025 22:43:31.618] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: FRANCOPR10 joined the game
+[22May2025 22:43:31.629] [Server thread/INFO] [Waila/]: Syncing config to FRANCOPR10 (d9d24099-c47d-3348-ab3a-99bd183119e0)
+[22May2025 22:43:31.630] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player FRANCOPR10
+[22May2025 22:43:31.631] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player FRANCOPR10
+[22May2025 22:43:31.631] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player FRANCOPR10
+[22May2025 22:43:31.631] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player FRANCOPR10
+[22May2025 22:43:31.631] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player FRANCOPR10
+[22May2025 22:44:28.544] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: FRANCOPR10 lost connection: Disconnected
+[22May2025 22:44:28.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: FRANCOPR10 left the game
+[22May2025 22:45:39.595] [Server thread/INFO] [antiqueatlas/]: Sending dimension #ResourceKey[minecraft:dimension / minecraft:overworld]
+[22May2025 22:45:39.596] [Server thread/INFO] [antiqueatlas/]: Sent dimension #ResourceKey[minecraft:dimension / minecraft:overworld] (14 tiles)
+[22May2025 22:45:39.597] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #4 data to player chocolinpy
+[22May2025 22:46:12.664] [Server thread/INFO] [antiqueatlas/]: Created new marker #1"casa"@(1812, -632)
+[22May2025 22:46:12.700] [Server thread/INFO] [antiqueatlas/]: Sent markers data #4 to player chocolinpy
+[22May2025 22:46:42.460] [Server thread/INFO] [antiqueatlas/]: Created new marker #2"fabri home"@(1752, -532)
