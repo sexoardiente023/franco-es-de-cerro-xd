@@ -341,3 +341,9 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [22May2025 23:44:37.214] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=379, y=103, z=-165} but found not block entity block Block{minecraft:cave_air} at location
 [22May2025 23:44:37.214] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=379, y=103, z=-165}
 [22May2025 23:47:55.752] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[22May2025 23:48:57.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy has made the advancement [NOT THE BEEEEEES!!!]
+[22May2025 23:49:29.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy has made the advancement [Bee Movie But It's 300% Larger]
+[22May2025 23:50:57.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has made the advancement [NOT THE BEEEEEES!!!]
+[22May2025 23:52:55.584] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[22May2025 23:53:08.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has made the advancement [Sticky Situation]
+[22May2025 23:57:55.726] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
