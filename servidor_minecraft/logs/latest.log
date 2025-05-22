@@ -281,3 +281,20 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [22May2025 22:53:14.058] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1857, y=73, z=-611} BlockPos{x=1859, y=71, z=-611}
 [22May2025 22:55:36.304] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: FRANCOPR10 lost connection: Disconnected
 [22May2025 22:55:36.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: FRANCOPR10 left the game
+[22May2025 22:57:46.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[22May2025 22:57:51.740] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[22May2025 22:59:55.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[22May2025 23:01:02.263] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@ca1fbf2
+[22May2025 23:01:02.272] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: FRANCOPR10[/100.106.168.72:56162] logged in with entity id 8411 at (1598.511296118336, 69.0, -456.3096256254998)
+[22May2025 23:01:02.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: FRANCOPR10 joined the game
+[22May2025 23:01:02.285] [Server thread/INFO] [Waila/]: Syncing config to FRANCOPR10 (d9d24099-c47d-3348-ab3a-99bd183119e0)
+[22May2025 23:01:02.286] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player FRANCOPR10
+[22May2025 23:01:02.287] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player FRANCOPR10
+[22May2025 23:01:02.287] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player FRANCOPR10
+[22May2025 23:01:02.287] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player FRANCOPR10
+[22May2025 23:01:02.288] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player FRANCOPR10
+[22May2025 23:01:12.254] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: FRANCOPR10 lost connection: Disconnected
+[22May2025 23:01:12.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: FRANCOPR10 left the game
+[22May2025 23:02:51.625] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[22May2025 23:02:54.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[22May2025 23:03:48.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
