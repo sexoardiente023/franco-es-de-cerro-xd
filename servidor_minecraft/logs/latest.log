@@ -75,3 +75,5 @@
 [23May2025 02:03:05.786] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
 [23May2025 02:07:06.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
 [23May2025 02:08:05.901] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[23May2025 02:13:05.690] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[23May2025 02:18:05.930] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
