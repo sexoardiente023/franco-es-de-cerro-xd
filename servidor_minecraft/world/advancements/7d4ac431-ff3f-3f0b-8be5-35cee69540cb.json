@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-05-23 02:46:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-05-18 21:16:14 +0000"
@@ -876,9 +882,11 @@
       "minecraft:skeleton": "2025-05-18 21:23:52 +0000",
       "minecraft:hoglin": "2025-05-20 00:43:24 +0000",
       "minecraft:vindicator": "2025-05-19 01:45:40 +0000",
+      "minecraft:magma_cube": "2025-05-23 02:41:57 +0000",
       "minecraft:spider": "2025-05-18 22:02:23 +0000",
       "minecraft:creeper": "2025-05-19 01:22:16 +0000",
       "minecraft:phantom": "2025-05-23 01:04:40 +0000",
+      "minecraft:zombified_piglin": "2025-05-23 02:47:12 +0000",
       "minecraft:witch": "2025-05-19 01:51:38 +0000",
       "minecraft:wither_skeleton": "2025-05-19 02:33:03 +0000",
       "minecraft:cave_spider": "2025-05-18 22:18:24 +0000",
@@ -2089,7 +2097,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:soul_sand_valley": "2025-05-20 00:42:23 +0000"
+      "minecraft:soul_sand_valley": "2025-05-20 00:42:23 +0000",
+      "minecraft:basalt_deltas": "2025-05-23 02:39:20 +0000"
     },
     "done": false
   },
@@ -2186,6 +2195,12 @@
   "storagedrawers:recipes/storagedrawers/controller": {
     "criteria": {
       "has_chest": "2025-05-20 00:02:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-23 02:41:23 +0000"
     },
     "done": true
   },
@@ -2789,6 +2804,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-23 02:39:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2025-05-19 01:35:00 +0000"
@@ -2821,6 +2842,7 @@
   },
   "spartanweaponry:collect_heads": {
     "criteria": {
+      "wither_skeleton_skull": "2025-05-23 02:39:34 +0000",
       "skeleton_skull": "2025-05-23 00:05:10 +0000"
     },
     "done": false
@@ -3822,6 +3844,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-05-23 02:39:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-05-18 21:15:37 +0000"
@@ -4125,6 +4153,12 @@
   "storagedrawers:recipes/storagedrawers/drawer_key": {
     "criteria": {
       "has_template": "2025-05-20 00:02:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-23 02:38:17 +0000"
     },
     "done": true
   },

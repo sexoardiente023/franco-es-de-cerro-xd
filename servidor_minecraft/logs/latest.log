@@ -109,3 +109,12 @@
 [23May2025 02:38:08.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy has made the advancement [Into Fire]
 [23May2025 02:38:17.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has made the advancement [Take Aim]
 [23May2025 02:39:34.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has made the advancement [Spooky Scary Skeleton]
+[23May2025 02:43:05.991] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[23May2025 02:48:05.938] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[23May2025 02:51:06.998] [Server thread/INFO] [antiqueatlas/]: Created new marker #1"Here lies Fabrioreos"@(235, 71)
+[23May2025 02:51:07.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos was burnt to a crisp whilst fighting Wither Skeleton
+[23May2025 02:51:07.006] [Server thread/INFO] [tombstone/]: The player Fabrioreos has successfully been saved
+[23May2025 02:51:08.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has made the advancement [The Most Useful Key]
+[23May2025 02:51:09.287] [Worker-Main-333/INFO] [antiqueatlas/]: Created new marker #9"Village"@(-247, -170)
+[23May2025 02:51:13.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has reached the goal [A Fast Comeback]
+[23May2025 02:51:15.195] [Server thread/INFO] [antiqueatlas/]: Sent markers data #2 to player Fabrioreos
