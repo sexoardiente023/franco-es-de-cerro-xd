@@ -63,3 +63,11 @@
 [23May2025 01:38:06.132] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
 [23May2025 01:43:05.888] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
 [23May2025 01:48:05.865] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[23May2025 01:51:00.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[23May2025 01:53:06.583] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[23May2025 01:53:06.600] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: chocolinpy moved too quickly! -9.963920917629821,2.8387142644381953,0.07816495009251412
+[23May2025 01:54:37.307] [Server thread/INFO] [antiqueatlas/]: Created new marker #4"dungeon"@(2148, -1292)
+[23May2025 01:55:08.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[23May2025 01:58:05.522] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[23May2025 01:58:05.972] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[23May2025 02:00:10.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
