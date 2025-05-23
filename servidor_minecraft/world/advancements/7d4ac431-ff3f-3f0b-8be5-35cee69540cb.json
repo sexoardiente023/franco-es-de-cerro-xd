@@ -455,6 +455,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/paraglider/cosmetic/rito_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-05-23 01:02:55 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/saber_iron": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 21:35:47 +0000"
@@ -854,6 +860,7 @@
       "minecraft:vindicator": "2025-05-19 01:45:40 +0000",
       "minecraft:spider": "2025-05-18 22:02:23 +0000",
       "minecraft:creeper": "2025-05-19 01:22:16 +0000",
+      "minecraft:phantom": "2025-05-23 01:04:40 +0000",
       "minecraft:witch": "2025-05-19 01:51:38 +0000",
       "minecraft:wither_skeleton": "2025-05-19 02:33:03 +0000",
       "minecraft:cave_spider": "2025-05-18 22:18:24 +0000",
@@ -3221,6 +3228,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/paraglider/cosmetic/goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-05-23 01:02:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-05-19 01:44:49 +0000"
@@ -3296,6 +3309,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/handle_from_string": {
     "criteria": {
       "has_stick": "2025-05-18 21:16:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-23 00:59:24 +0000"
     },
     "done": true
   },
@@ -3815,6 +3834,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/paraglider/cosmetic/goron_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-05-23 01:02:55 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/scythe_wood": {
     "criteria": {
       "has_wood": "2025-05-18 21:16:14 +0000"
@@ -4049,6 +4074,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/paraglider/cosmetic/kakariko_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-05-23 01:02:55 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/funeral_theft": {
     "criteria": {
       "coded_trigger": "2025-05-18 21:20:40 +0000"
@@ -4058,6 +4089,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-19 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-23 00:59:24 +0000"
     },
     "done": true
   },
