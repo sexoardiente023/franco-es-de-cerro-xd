@@ -77,3 +77,35 @@
 [23May2025 02:08:05.901] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
 [23May2025 02:13:05.690] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
 [23May2025 02:18:05.930] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[23May2025 02:23:05.726] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[23May2025 02:26:32.254] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Fabrioreos lost connection: Disconnected
+[23May2025 02:26:32.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos left the game
+[23May2025 02:26:37.054] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1365020b
+[23May2025 02:26:37.064] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Fabrioreos[/100.106.168.72:59404] logged in with entity id 106013 at (1127.300000011921, 63.0, -1804.699999988079)
+[23May2025 02:26:37.067] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos joined the game
+[23May2025 02:26:37.082] [Server thread/INFO] [Waila/]: Syncing config to Fabrioreos (7d4ac431-ff3f-3f0b-8be5-35cee69540cb)
+[23May2025 02:26:37.084] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player Fabrioreos
+[23May2025 02:26:37.084] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[23May2025 02:26:37.084] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[23May2025 02:26:37.085] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[23May2025 02:26:37.085] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[23May2025 02:26:37.085] [Server thread/INFO] [antiqueatlas/]: Sending dimension #ResourceKey[minecraft:dimension / minecraft:overworld]
+[23May2025 02:26:37.089] [Server thread/INFO] [antiqueatlas/]: Sent dimension #ResourceKey[minecraft:dimension / minecraft:overworld] (70 tiles)
+[23May2025 02:26:37.089] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #2 data to player Fabrioreos
+[23May2025 02:26:37.089] [Server thread/INFO] [antiqueatlas/]: Sent markers data #2 to player Fabrioreos
+[23May2025 02:26:45.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[23May2025 02:28:05.946] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[23May2025 02:33:06.012] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[23May2025 02:35:53.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has reached the goal [A Small Cemetery]
+[23May2025 02:37:14.837] [Server thread/INFO] [antiqueatlas/]: Sending dimension #ResourceKey[minecraft:dimension / minecraft:the_nether]
+[23May2025 02:37:14.838] [Server thread/INFO] [antiqueatlas/]: Sent dimension #ResourceKey[minecraft:dimension / minecraft:the_nether] (4 tiles)
+[23May2025 02:37:14.838] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #4 data to player chocolinpy
+[23May2025 02:37:14.839] [Server thread/INFO] [antiqueatlas/]: Sent markers data #4 to player chocolinpy
+[23May2025 02:38:03.623] [Server thread/INFO] [antiqueatlas/]: Sending dimension #ResourceKey[minecraft:dimension / minecraft:the_nether]
+[23May2025 02:38:03.624] [Server thread/INFO] [antiqueatlas/]: Sent dimension #ResourceKey[minecraft:dimension / minecraft:the_nether] (4 tiles)
+[23May2025 02:38:03.624] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #2 data to player Fabrioreos
+[23May2025 02:38:05.538] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[23May2025 02:38:05.841] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[23May2025 02:38:08.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy has made the advancement [Into Fire]
+[23May2025 02:38:17.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has made the advancement [Take Aim]
+[23May2025 02:39:34.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has made the advancement [Spooky Scary Skeleton]
