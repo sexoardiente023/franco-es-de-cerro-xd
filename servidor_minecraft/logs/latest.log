@@ -14,3 +14,19 @@
 [23May2025 00:12:42.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has completed the challenge [Village Defender]
 [23May2025 00:13:07.102] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
 [23May2025 00:18:06.768] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[23May2025 00:22:56.415] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: endrem:puzzle_corridor
+[23May2025 00:22:56.558] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[23May2025 00:22:56.558] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[23May2025 00:22:56.558] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[23May2025 00:22:56.558] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[23May2025 00:23:07.138] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[23May2025 00:23:07.162] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Fabrioreos) moved too quickly! -0.10081944472176474,0.0,10.377637823647092
+[23May2025 00:23:07.162] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Fabrioreos) moved too quickly! -0.09392944510318557,0.0,10.777393617558573
+[23May2025 00:23:07.163] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Fabrioreos) moved too quickly! -0.08671996016687444,0.0,11.177161010380587
+[23May2025 00:23:07.163] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Fabrioreos) moved too quickly! -0.07921527098983461,0.0,11.576938648506712
+[23May2025 00:23:07.163] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Fabrioreos) moved too quickly! -0.0714410643302017,0.0,11.976725406823789
+[23May2025 00:23:07.164] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Fabrioreos) moved too quickly! -0.0634204581533595,0.0,12.376520276454357
+[23May2025 00:23:07.165] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Fabrioreos) moved too quickly! -0.05517425874381843,0.0,12.776322345684548
+[23May2025 00:23:07.165] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Fabrioreos) moved too quickly! -0.04672119175734224,0.0,13.17613079769626
+[23May2025 00:23:07.165] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Fabrioreos) moved too quickly! -0.038078110283549904,0.0,13.575944893628275
+[23May2025 00:28:06.996] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
