@@ -1063,6 +1063,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-05-23 00:16:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-05-18 21:19:14 +0000"
@@ -2098,6 +2104,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-05-23 00:12:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-05-18 21:23:54 +0000"
@@ -2179,6 +2191,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/javelin_wood": {
     "criteria": {
       "has_wood": "2025-05-18 21:19:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-05-23 00:12:43 +0000"
     },
     "done": true
   },
@@ -2441,7 +2459,8 @@
       "mutton": "2025-05-18 21:18:07 +0000",
       "bread": "2025-05-18 21:38:00 +0000",
       "golden_apple": "2025-05-19 01:48:24 +0000",
-      "rotten_flesh": "2025-05-18 21:22:46 +0000"
+      "rotten_flesh": "2025-05-18 21:22:46 +0000",
+      "cooked_rabbit": "2025-05-23 00:15:36 +0000"
     },
     "done": false
   },
@@ -3015,6 +3034,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-05-23 00:16:54 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/heavy_crossbow_iron": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 21:39:30 +0000"
@@ -3079,6 +3104,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
     "criteria": {
       "has_smooth_sandstone": "2025-05-19 18:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-05-23 00:16:54 +0000"
     },
     "done": true
   },

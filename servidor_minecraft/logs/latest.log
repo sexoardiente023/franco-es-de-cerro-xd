@@ -11,3 +11,6 @@
 [23May2025 00:07:45.511] [Worker-Main-48/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
 [23May2025 00:07:55.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4935ms or 98 ticks behind
 [23May2025 00:08:06.377] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[23May2025 00:12:42.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has completed the challenge [Village Defender]
+[23May2025 00:13:07.102] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[23May2025 00:18:06.768] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
