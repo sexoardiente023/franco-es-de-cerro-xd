@@ -199,3 +199,5 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [23May2025 21:09:16.844] [Server thread/INFO] [Spartan Weaponry/]: Starting up Server for Spartan Weaponry!
 [23May2025 21:14:16.807] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
 [23May2025 21:14:17.238] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[23May2025 21:19:16.840] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[23May2025 21:24:16.836] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
