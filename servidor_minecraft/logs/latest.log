@@ -30,3 +30,9 @@
 [23May2025 00:23:07.165] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Fabrioreos) moved too quickly! -0.04672119175734224,0.0,13.17613079769626
 [23May2025 00:23:07.165] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Fabrioreos) moved too quickly! -0.038078110283549904,0.0,13.575944893628275
 [23May2025 00:28:06.996] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[23May2025 00:30:14.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has made the advancement [Smoke On The Water]
+[23May2025 00:30:53.574] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Fabrioreos) moved wrongly! 0.28348538207956153
+[23May2025 00:30:53.627] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Fabrioreos) moved wrongly! 0.4537642061286533
+[23May2025 00:30:53.677] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Fabrioreos) moved wrongly! 0.6357024653445933
+[23May2025 00:33:06.851] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[23May2025 00:38:06.089] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
