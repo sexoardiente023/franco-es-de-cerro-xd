@@ -118,3 +118,7 @@
 [23May2025 02:51:09.287] [Worker-Main-333/INFO] [antiqueatlas/]: Created new marker #9"Village"@(-247, -170)
 [23May2025 02:51:13.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has reached the goal [A Fast Comeback]
 [23May2025 02:51:15.195] [Server thread/INFO] [antiqueatlas/]: Sent markers data #2 to player Fabrioreos
+[23May2025 02:53:05.509] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[23May2025 02:53:05.561] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[23May2025 02:53:05.907] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[23May2025 02:58:06.000] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
