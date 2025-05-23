@@ -48,3 +48,6 @@
 [23May2025 01:06:19.349] [Server thread/INFO] [antiqueatlas/]: Sent dimension #ResourceKey[minecraft:dimension / minecraft:the_nether] (4 tiles)
 [23May2025 01:06:19.349] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #2 data to player Fabrioreos
 [23May2025 01:08:06.233] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[23May2025 01:13:06.177] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[23May2025 01:14:06.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has made the advancement [Enchanter]
+[23May2025 01:18:06.316] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
