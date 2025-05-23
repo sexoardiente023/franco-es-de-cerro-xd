@@ -1121,6 +1121,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/vanishing": {
+    "criteria": {
+      "coded_trigger": "2025-05-23 03:11:59 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/warhammer_stone": {
     "criteria": {
       "has_cobblestone": "2025-05-18 21:16:30 +0000"
@@ -1232,6 +1238,12 @@
   "relics:obtain/ghost_skin_talisman": {
     "criteria": {
       "obtain_relic": "2025-05-18 22:30:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_voodoo_poppets": {
+    "criteria": {
+      "has_ingredient": "2025-05-23 03:08:16 +0000"
     },
     "done": true
   },
@@ -2432,6 +2444,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-23 03:13:28 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/parrying_dagger_gold": {
     "criteria": {
       "has_gold_ingot": "2025-05-18 22:20:02 +0000"
@@ -2736,6 +2754,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-18 21:58:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-05-23 03:08:16 +0000"
     },
     "done": true
   },
@@ -3929,6 +3953,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-05-23 03:08:16 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-18 21:12:37 +0000"
@@ -4124,6 +4154,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-05-19 02:02:18 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/wither_eye": {
+    "criteria": {
+      "wither_eye": "2025-05-23 03:08:20 +0000"
     },
     "done": true
   },
@@ -4502,6 +4538,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/tank_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-18 22:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bonemeal": "2025-05-23 03:13:28 +0000"
     },
     "done": true
   },
