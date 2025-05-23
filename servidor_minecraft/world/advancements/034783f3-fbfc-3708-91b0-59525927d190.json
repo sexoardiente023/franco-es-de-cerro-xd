@@ -413,6 +413,12 @@
     },
     "done": true
   },
+  "aquaculture:recipes/aquaculture/nether_star_hook": {
+    "criteria": {
+      "has_items": "2025-05-23 03:07:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-05-23 02:21:55 +0000"
@@ -849,6 +855,7 @@
       "minecraft:magma_cube": "2025-05-23 02:43:56 +0000",
       "minecraft:spider": "2025-05-18 21:23:49 +0000",
       "minecraft:creeper": "2025-05-18 21:21:53 +0000",
+      "minecraft:wither": "2025-05-23 03:07:31 +0000",
       "minecraft:phantom": "2025-05-23 02:57:53 +0000",
       "minecraft:witch": "2025-05-20 02:07:40 +0000",
       "minecraft:wither_skeleton": "2025-05-19 02:20:59 +0000",
@@ -1203,6 +1210,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-05-18 21:53:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_voodoo_poppets": {
+    "criteria": {
+      "has_ingredient": "2025-05-23 03:07:31 +0000"
     },
     "done": true
   },
@@ -1969,6 +1982,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-05-23 03:02:41 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/longbow_iron": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 21:39:30 +0000"
@@ -2456,6 +2475,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-05-23 03:05:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-05-19 02:12:01 +0000"
@@ -2520,6 +2545,7 @@
     "criteria": {
       "cooked_porkchop": "2025-05-22 22:39:46 +0000",
       "cooked_mutton": "2025-05-18 21:32:32 +0000",
+      "cooked_beef": "2025-05-23 03:07:37 +0000",
       "mutton": "2025-05-18 21:18:07 +0000",
       "bread": "2025-05-18 21:38:00 +0000",
       "golden_apple": "2025-05-19 01:48:24 +0000",
@@ -2670,6 +2696,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-19 17:25:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-05-23 03:07:31 +0000"
     },
     "done": true
   },
@@ -2842,6 +2874,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-05-23 03:07:45 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/pike_stone": {
     "criteria": {
       "has_cobblestone": "2025-05-18 21:23:54 +0000"
@@ -2869,6 +2907,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-05-18 21:36:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-05-23 03:07:31 +0000"
     },
     "done": true
   },
@@ -3803,6 +3847,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-05-23 03:07:31 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-18 21:17:01 +0000"
@@ -3956,6 +4006,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-05-23 01:28:19 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/wither_eye": {
+    "criteria": {
+      "wither_eye": "2025-05-23 03:07:32 +0000"
     },
     "done": true
   },
