@@ -1708,6 +1708,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-05-19 02:00:43 +0000",
+      "minecraft:taiga": "2025-05-23 01:26:12 +0000",
       "minecraft:desert_hills": "2025-05-19 00:58:30 +0000",
       "minecraft:desert": "2025-05-18 21:33:31 +0000",
       "minecraft:savanna_plateau": "2025-05-18 21:34:36 +0000",
@@ -3171,6 +3172,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-05-22 22:35:40 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/drowned_belt": {
+    "criteria": {
+      "obtain_relic": "2025-05-23 01:21:33 +0000"
     },
     "done": true
   },
