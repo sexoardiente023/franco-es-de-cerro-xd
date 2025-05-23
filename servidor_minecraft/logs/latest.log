@@ -201,3 +201,19 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [23May2025 21:14:17.238] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
 [23May2025 21:19:16.840] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
 [23May2025 21:24:16.836] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[23May2025 21:29:16.837] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[23May2025 21:33:02.188] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4335624f
+[23May2025 21:33:02.225] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Fabrioreos[/100.106.168.72:50070] logged in with entity id 474 at (1803.589691085263, 72.0, -521.2503317500676)
+[23May2025 21:33:02.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos joined the game
+[23May2025 21:33:02.330] [Server thread/INFO] [Waila/]: Syncing config to Fabrioreos (7d4ac431-ff3f-3f0b-8be5-35cee69540cb)
+[23May2025 21:33:02.349] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player Fabrioreos
+[23May2025 21:33:02.351] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[23May2025 21:33:02.351] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[23May2025 21:33:02.351] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[23May2025 21:33:02.352] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[23May2025 21:33:02.419] [Server thread/INFO] [antiqueatlas/]: Sending dimension #ResourceKey[minecraft:dimension / minecraft:overworld]
+[23May2025 21:33:02.425] [Server thread/INFO] [antiqueatlas/]: Sent dimension #ResourceKey[minecraft:dimension / minecraft:overworld] (72 tiles)
+[23May2025 21:33:02.426] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #2 data to player Fabrioreos
+[23May2025 21:33:02.428] [Server thread/INFO] [antiqueatlas/]: Sent markers data #2 to player Fabrioreos
+[23May2025 21:34:16.900] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[23May2025 21:34:16.933] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
