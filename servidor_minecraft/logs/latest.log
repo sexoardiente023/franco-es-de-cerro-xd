@@ -217,3 +217,5 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [23May2025 21:33:02.428] [Server thread/INFO] [antiqueatlas/]: Sent markers data #2 to player Fabrioreos
 [23May2025 21:34:16.900] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
 [23May2025 21:34:16.933] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[23May2025 21:39:17.078] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[23May2025 21:44:16.956] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
