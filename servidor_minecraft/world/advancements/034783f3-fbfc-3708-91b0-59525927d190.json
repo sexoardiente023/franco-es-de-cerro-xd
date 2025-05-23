@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-05-23 01:35:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 21:39:30 +0000"
@@ -653,6 +659,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-05-23 01:28:16 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-05-18 21:17:01 +0000"
@@ -814,6 +826,7 @@
       "minecraft:pillager": "2025-05-19 01:43:52 +0000",
       "minecraft:blaze": "2025-05-20 00:57:33 +0000",
       "minecraft:skeleton": "2025-05-18 21:36:25 +0000",
+      "minecraft:vindicator": "2025-05-23 01:36:03 +0000",
       "minecraft:spider": "2025-05-18 21:23:49 +0000",
       "minecraft:creeper": "2025-05-18 21:21:53 +0000",
       "minecraft:witch": "2025-05-20 02:07:40 +0000",
@@ -825,6 +838,7 @@
       "minecraft:stray": "2025-05-19 02:15:57 +0000",
       "minecraft:endermite": "2025-05-22 23:47:45 +0000",
       "minecraft:zombie": "2025-05-18 21:20:14 +0000",
+      "minecraft:drowned": "2025-05-23 01:28:46 +0000",
       "minecraft:zombie_villager": "2025-05-19 01:43:59 +0000"
     },
     "done": false
@@ -1294,6 +1308,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-05-20 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-05-23 01:35:44 +0000"
     },
     "done": true
   },
@@ -2592,6 +2612,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-05-23 01:36:03 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/throwing_knife_iron": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 21:39:30 +0000"
@@ -2726,7 +2752,8 @@
   },
   "spartanweaponry:collect_heads": {
     "criteria": {
-      "wither_skeleton_skull": "2025-05-20 00:50:21 +0000"
+      "wither_skeleton_skull": "2025-05-20 00:50:21 +0000",
+      "skeleton_skull": "2025-05-23 01:30:00 +0000"
     },
     "done": false
   },
@@ -3643,6 +3670,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-05-23 01:35:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-05-18 21:53:36 +0000"
@@ -3868,6 +3901,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/boomerang_wood": {
     "criteria": {
       "has_wood": "2025-05-18 21:19:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-05-23 01:28:19 +0000"
     },
     "done": true
   },
