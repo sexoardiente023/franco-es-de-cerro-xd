@@ -2961,6 +2961,12 @@
     },
     "done": true
   },
+  "the_bumblezone:the_bumblezone/effects/protection_of_the_hive_defense": {
+    "criteria": {
+      "protection_of_the_hive_defense": "2025-05-23 00:01:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-05-18 21:27:29 +0000"
