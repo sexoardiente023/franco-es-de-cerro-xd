@@ -1,3 +1,20 @@
 [24May2025 00:02:54.997] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
 [24May2025 00:07:08.510] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting MODDED connection attempt: This modded server is not network compatible with your modded client. Please verify your Forge version closely matches the server. Got net version 3 this server is net version 2
 [24May2025 00:07:55.003] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[24May2025 00:12:54.999] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[24May2025 00:15:46.455] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4778b6df
+[24May2025 00:15:46.489] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: chocolinpy[/100.115.122.8:63646] logged in with entity id 474 at (1835.780888427891, 97.0, -683.3506479600775)
+[24May2025 00:15:46.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy joined the game
+[24May2025 00:15:46.610] [Server thread/INFO] [Waila/]: Syncing config to chocolinpy (034783f3-fbfc-3708-91b0-59525927d190)
+[24May2025 00:15:46.628] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player chocolinpy
+[24May2025 00:15:46.629] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player chocolinpy
+[24May2025 00:15:46.630] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player chocolinpy
+[24May2025 00:15:46.630] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player chocolinpy
+[24May2025 00:15:46.630] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player chocolinpy
+[24May2025 00:15:46.673] [Server thread/INFO] [antiqueatlas/]: Sending dimension #ResourceKey[minecraft:dimension / minecraft:overworld]
+[24May2025 00:15:46.676] [Server thread/INFO] [antiqueatlas/]: Sent dimension #ResourceKey[minecraft:dimension / minecraft:overworld] (29 tiles)
+[24May2025 00:15:46.676] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #4 data to player chocolinpy
+[24May2025 00:15:46.678] [Server thread/INFO] [antiqueatlas/]: Sent markers data #4 to player chocolinpy
+[24May2025 00:15:56.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[24May2025 00:17:55.022] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[24May2025 00:17:55.314] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
