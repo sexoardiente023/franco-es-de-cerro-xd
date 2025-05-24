@@ -2837,3 +2837,14 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [23May2025 23:57:54.999] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
 [23May2025 23:57:55.000] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [23May2025 23:57:55.004] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24May2025 00:02:54.997] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[24May2025 00:02:55.000] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24May2025 00:02:55.004] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24May2025 00:07:08.223] [Server thread/DEBUG] [mixin/]: Mixing item.umbrella.ServerPlayNetHandlerMixin from mixins.artifacts.json into net.minecraft.network.play.ServerPlayNetHandler
+[24May2025 00:07:08.226] [Server thread/DEBUG] [mixin/]: Mixing swimming.server.ServerGamePacketListenerImplMixin from expandability.mixins.json into net.minecraft.network.play.ServerPlayNetHandler
+[24May2025 00:07:08.226] [Server thread/DEBUG] [mixin/]: Mixing ServerPacketMixin from tombstone.mixins.json into net.minecraft.network.play.ServerPlayNetHandler
+[24May2025 00:07:08.251] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/network/play/client/CClientSettingsPacket
+[24May2025 00:07:08.510] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting MODDED connection attempt: This modded server is not network compatible with your modded client. Please verify your Forge version closely matches the server. Got net version 3 this server is net version 2
+[24May2025 00:07:55.003] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[24May2025 00:07:55.003] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24May2025 00:07:55.008] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
