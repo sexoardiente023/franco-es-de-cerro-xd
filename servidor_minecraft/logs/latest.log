@@ -28,3 +28,20 @@
 [24May2025 00:55:28.132] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5bc50618
 [24May2025 00:57:55.235] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
 [24May2025 01:02:55.168] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[24May2025 01:04:52.933] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: chocolinpy lost connection: Disconnected
+[24May2025 01:04:52.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy left the game
+[24May2025 01:06:38.536] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@611730cc
+[24May2025 01:06:38.545] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: chocolinpy[/100.115.122.8:64181] logged in with entity id 6936 at (1846.3618788421866, 75.0, -667.9098673018599)
+[24May2025 01:06:38.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy joined the game
+[24May2025 01:06:38.571] [Server thread/INFO] [Waila/]: Syncing config to chocolinpy (034783f3-fbfc-3708-91b0-59525927d190)
+[24May2025 01:06:38.572] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player chocolinpy
+[24May2025 01:06:38.573] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player chocolinpy
+[24May2025 01:06:38.573] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player chocolinpy
+[24May2025 01:06:38.574] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player chocolinpy
+[24May2025 01:06:38.574] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player chocolinpy
+[24May2025 01:06:38.576] [Server thread/INFO] [antiqueatlas/]: Sending dimension #ResourceKey[minecraft:dimension / minecraft:overworld]
+[24May2025 01:06:38.579] [Server thread/INFO] [antiqueatlas/]: Sent dimension #ResourceKey[minecraft:dimension / minecraft:overworld] (29 tiles)
+[24May2025 01:06:38.580] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #4 data to player chocolinpy
+[24May2025 01:06:38.580] [Server thread/INFO] [antiqueatlas/]: Sent markers data #4 to player chocolinpy
+[24May2025 01:07:55.331] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[24May2025 01:12:55.319] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
