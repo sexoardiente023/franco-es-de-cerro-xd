@@ -79,3 +79,13 @@
 [24May2025 02:02:57.224] [Server thread/INFO] [antiqueatlas/]: Sent dimension #ResourceKey[minecraft:dimension / minecraft:overworld] (29 tiles)
 [24May2025 02:02:57.224] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #4 data to player chocolinpy
 [24May2025 02:02:57.224] [Server thread/INFO] [antiqueatlas/]: Sent markers data #4 to player chocolinpy
+[24May2025 02:04:53.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[24May2025 02:05:12.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[24May2025 02:05:17.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[24May2025 02:05:31.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[24May2025 02:07:55.385] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[24May2025 02:11:12.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set the time to 1000]
+[24May2025 02:11:27.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set the weather to clear]
+[24May2025 02:12:55.269] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[24May2025 02:13:11.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[24May2025 02:13:37.517] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: chocolinpy moved wrongly!
