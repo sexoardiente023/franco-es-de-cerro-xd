@@ -2024,6 +2024,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-04 02:20:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab": {
     "criteria": {
       "has_cut_sandstone": "2025-05-19 17:21:05 +0000"
@@ -2134,6 +2140,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-06-04 02:19:18 +0000",
       "minecraft:soul_sand_valley": "2025-05-20 00:48:39 +0000",
       "minecraft:nether_wastes": "2025-06-04 02:03:16 +0000",
       "minecraft:basalt_deltas": "2025-05-23 02:39:25 +0000"

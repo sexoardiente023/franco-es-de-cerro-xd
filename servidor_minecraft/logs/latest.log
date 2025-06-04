@@ -349,3 +349,19 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [04Jun2025 02:12:57.787] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=103, y=11, z=161} BlockPos{x=103, y=9, z=162}
 [04Jun2025 02:12:57.840] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=103, y=11, z=162} BlockPos{x=103, y=9, z=162}
 [04Jun2025 02:12:57.889] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=103, y=11, z=162} BlockPos{x=102, y=11, z=162}
+[04Jun2025 02:14:17.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: FRANCOPR10 has made the advancement [Bring Home the Beacon]
+[04Jun2025 02:17:54.904] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[04Jun2025 02:18:44.696] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=28, y=15, z=234} BlockPos{x=27, y=15, z=234}
+[04Jun2025 02:19:00.585] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=21, y=15, z=244} BlockPos{x=21, y=14, z=243}
+[04Jun2025 02:19:02.043] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=21, y=16, z=241} BlockPos{x=21, y=14, z=241}
+[04Jun2025 02:19:42.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: FRANCOPR10 has made the advancement [Enchanter]
+[04Jun2025 02:21:20.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has made the advancement [A Throwaway Joke]
+[04Jun2025 02:21:40.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[04Jun2025 02:22:04.199] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[04Jun2025 02:22:15.721] [Server thread/INFO] [antiqueatlas/]: Sending dimension #ResourceKey[minecraft:dimension / minecraft:overworld]
+[04Jun2025 02:22:15.723] [Server thread/INFO] [antiqueatlas/]: Sent dimension #ResourceKey[minecraft:dimension / minecraft:overworld] (29 tiles)
+[04Jun2025 02:22:15.723] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #4 data to player chocolinpy
+[04Jun2025 02:22:15.723] [Server thread/INFO] [antiqueatlas/]: Sent markers data #4 to player chocolinpy
+[04Jun2025 02:22:24.048] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Fabrioreos) moved wrongly! 0.3933555483181408
+[04Jun2025 02:22:55.362] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[04Jun2025 02:22:58.315] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
