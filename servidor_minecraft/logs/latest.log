@@ -498,3 +498,40 @@ java.util.ConcurrentModificationException: null
 [04Jun2025 03:13:35.396] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1612, y=39, z=-538} BlockPos{x=1612, y=38, z=-539}
 [04Jun2025 03:14:25.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
 [04Jun2025 03:14:27.002] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[04Jun2025 03:15:44.991] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[04Jun2025 03:17:56.093] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[04Jun2025 03:17:59.839] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[04Jun2025 03:18:02.199] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[04Jun2025 03:18:08.738] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[04Jun2025 03:18:15.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[04Jun2025 03:18:44.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[04Jun2025 03:18:49.642] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: FRANCOPR10 lost connection: Disconnected
+[04Jun2025 03:18:49.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: FRANCOPR10 left the game
+[04Jun2025 03:19:02.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has made the advancement [Stealth boy]
+[04Jun2025 03:19:55.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[04Jun2025 03:20:12.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[04Jun2025 03:20:19.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[04Jun2025 03:20:26.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[04Jun2025 03:22:00.127] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: chocolinpy lost connection: Disconnected
+[04Jun2025 03:22:00.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy left the game
+[04Jun2025 03:22:05.080] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4b7597c8
+[04Jun2025 03:22:05.089] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: chocolinpy[/100.115.122.8:64846] logged in with entity id 77007 at (1864.8651001825342, 75.0, -674.0546953281793)
+[04Jun2025 03:22:05.094] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy joined the game
+[04Jun2025 03:22:05.113] [Server thread/INFO] [Waila/]: Syncing config to chocolinpy (034783f3-fbfc-3708-91b0-59525927d190)
+[04Jun2025 03:22:05.114] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player chocolinpy
+[04Jun2025 03:22:05.115] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player chocolinpy
+[04Jun2025 03:22:05.115] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player chocolinpy
+[04Jun2025 03:22:05.115] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player chocolinpy
+[04Jun2025 03:22:05.116] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player chocolinpy
+[04Jun2025 03:22:05.117] [Server thread/INFO] [antiqueatlas/]: Sending dimension #ResourceKey[minecraft:dimension / minecraft:overworld]
+[04Jun2025 03:22:05.118] [Server thread/INFO] [antiqueatlas/]: Sent dimension #ResourceKey[minecraft:dimension / minecraft:overworld] (29 tiles)
+[04Jun2025 03:22:05.118] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #4 data to player chocolinpy
+[04Jun2025 03:22:05.118] [Server thread/INFO] [antiqueatlas/]: Sent markers data #4 to player chocolinpy
+[04Jun2025 03:22:59.729] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[04Jun2025 03:24:26.159] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/79047, l='ServerLevel[world]', x=4086.91, y=72.75, z=-4749.30] died, message: 'Villager was slain by Zombie Villager'
+[04Jun2025 03:24:31.499] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/78636, l='ServerLevel[world]', x=4035.59, y=76.00, z=-4756.95] died, message: 'Villager was slain by Zombie Villager'
+[04Jun2025 03:24:35.793] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/79125, l='ServerLevel[world]', x=4096.49, y=73.00, z=-4747.49] died, message: 'Villager suffocated in a wall'
+[04Jun2025 03:24:49.582] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/78723, l='ServerLevel[world]', x=4009.58, y=70.00, z=-4746.87] died, message: 'Villager was slain by Zombie Villager'
+[04Jun2025 03:24:54.876] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/79046, l='ServerLevel[world]', x=4032.42, y=87.75, z=-4714.95] died, message: 'Villager was slain by Zombie Villager'
+[04Jun2025 03:25:03.741] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/78726, l='ServerLevel[world]', x=4041.27, y=75.18, z=-4722.63] died, message: 'Villager was slain by Zombie'
+[04Jun2025 03:25:06.775] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/79048, l='ServerLevel[world]', x=4074.41, y=74.64, z=-4757.74] died, message: 'Villager was slain by Zombie Villager'
