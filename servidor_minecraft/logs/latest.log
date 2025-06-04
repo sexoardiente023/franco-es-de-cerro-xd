@@ -247,3 +247,20 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [04Jun2025 01:41:10.321] [Server thread/INFO] [antiqueatlas/]: Sent dimension #ResourceKey[minecraft:dimension / minecraft:overworld] (72 tiles)
 [04Jun2025 01:41:10.321] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #2 data to player Fabrioreos
 [04Jun2025 01:41:10.322] [Server thread/INFO] [antiqueatlas/]: Sent markers data #2 to player Fabrioreos
+[04Jun2025 01:42:54.254] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[04Jun2025 01:42:55.098] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[04Jun2025 01:44:43.093] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Teleported Fabrioreos to chocolinpy]
+[04Jun2025 01:44:53.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[04Jun2025 01:44:56.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[04Jun2025 01:47:54.708] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[04Jun2025 01:49:14.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[04Jun2025 01:49:17.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[04Jun2025 01:50:31.490] [Server thread/INFO] [antiqueatlas/]: Sending dimension #ResourceKey[minecraft:dimension / minecraft:the_nether]
+[04Jun2025 01:50:31.490] [Server thread/INFO] [antiqueatlas/]: Sent dimension #ResourceKey[minecraft:dimension / minecraft:the_nether] (5 tiles)
+[04Jun2025 01:50:31.491] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #4 data to player chocolinpy
+[04Jun2025 01:50:31.493] [Server thread/INFO] [antiqueatlas/]: Sent markers data #4 to player chocolinpy
+[04Jun2025 01:51:19.584] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=148, y=40, z=-4} BlockPos{x=149, y=42, z=-3}
+[04Jun2025 01:51:19.705] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=149, y=42, z=-3} BlockPos{x=148, y=41, z=-4}
+[04Jun2025 01:51:27.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has made the advancement [Magic Disenchantment]
+[04Jun2025 01:51:27.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has made the advancement [Let The Magic Happen]
+[04Jun2025 01:51:28.299] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=143, y=41, z=-6} BlockPos{x=142, y=37, z=-6}
