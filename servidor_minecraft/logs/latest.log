@@ -445,3 +445,27 @@ java.util.ConcurrentModificationException: null
 [04Jun2025 02:53:49.186] [Server thread/INFO] [antiqueatlas/]: Created new marker #5"Here lies Fabrioreos"@(3835, -3016)
 [04Jun2025 02:53:49.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos was slain by Zombie
 [04Jun2025 02:53:49.207] [Server thread/INFO] [tombstone/]: The player Fabrioreos has successfully been saved
+[04Jun2025 02:55:27.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[04Jun2025 02:57:50.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy has made the advancement [The Bender of the 15th Century]
+[04Jun2025 02:57:56.216] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[04Jun2025 02:57:56.908] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[04Jun2025 02:58:13.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[04Jun2025 02:58:46.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[04Jun2025 02:59:24.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Adventure Mode]
+[04Jun2025 02:59:26.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[04Jun2025 02:59:28.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Adventure Mode]
+[04Jun2025 02:59:30.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[04Jun2025 02:59:33.997] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Adventure Mode]
+[04Jun2025 02:59:34.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[04Jun2025 02:59:40.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[04Jun2025 02:59:41.890] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[04Jun2025 02:59:42.494] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[04Jun2025 02:59:43.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[04Jun2025 03:01:30.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[04Jun2025 03:02:13.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: The difficulty has been set to Hard]
+[04Jun2025 03:02:35.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[04Jun2025 03:02:56.897] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[04Jun2025 03:03:12.192] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[04Jun2025 03:03:13.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[04Jun2025 03:03:58.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[04Jun2025 03:04:28.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]

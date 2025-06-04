@@ -1127,6 +1127,12 @@
     },
     "done": true
   },
+  "spartanweaponry:heavy_crossbow": {
+    "criteria": {
+      "has_heavy_crossbow": "2025-06-04 02:57:50 +0000"
+    },
+    "done": true
+  },
   "relics:obtain/midnight_robe": {
     "criteria": {
       "obtain_relic": "2025-05-19 01:31:49 +0000"
