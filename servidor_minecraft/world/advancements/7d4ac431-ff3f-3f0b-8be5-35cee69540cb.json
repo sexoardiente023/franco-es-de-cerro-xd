@@ -775,7 +775,8 @@
   },
   "simplefarming:crops": {
     "criteria": {
-      "sorghum": "2025-05-18 21:39:09 +0000"
+      "sorghum": "2025-05-18 21:39:09 +0000",
+      "corn": "2025-06-04 04:06:26 +0000"
     },
     "done": false
   },
@@ -3412,6 +3413,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:jungle_edge": "2025-06-04 04:11:45 +0000",
       "minecraft:cold_ocean": "2025-06-04 02:20:43 +0000",
       "minecraft:forest": "2025-05-19 01:46:11 +0000",
       "minecraft:mushroom_fields": "2025-05-23 00:19:39 +0000",
@@ -3421,9 +3423,12 @@
       "minecraft:deep_cold_ocean": "2025-05-23 00:21:06 +0000",
       "minecraft:taiga_hills": "2025-06-04 02:23:45 +0000",
       "minecraft:desert": "2025-05-18 21:33:37 +0000",
+      "minecraft:jungle": "2025-06-04 04:12:23 +0000",
+      "minecraft:jungle_hills": "2025-06-04 04:12:34 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-23 00:27:11 +0000",
       "minecraft:savanna_plateau": "2025-05-18 21:34:58 +0000",
       "minecraft:beach": "2025-05-23 00:22:16 +0000",
+      "minecraft:dark_forest": "2025-06-04 04:09:07 +0000",
       "minecraft:river": "2025-05-18 21:33:11 +0000",
       "minecraft:lukewarm_ocean": "2025-05-23 00:27:07 +0000",
       "minecraft:wooded_mountains": "2025-06-04 03:46:26 +0000",
