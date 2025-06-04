@@ -469,3 +469,32 @@ java.util.ConcurrentModificationException: null
 [04Jun2025 03:03:13.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
 [04Jun2025 03:03:58.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
 [04Jun2025 03:04:28.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[04Jun2025 03:04:38.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has made the advancement [Fisticuffs]
+[04Jun2025 03:05:46.693] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Fabrioreos moved too quickly! -7.710680093555766,0.8274457554965977,-6.513039393024883
+[04Jun2025 03:05:46.699] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2642ms or 52 ticks behind
+[04Jun2025 03:06:45.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[04Jun2025 03:06:54.719] [Worker-Main-16/INFO] [antiqueatlas/]: Created new marker #13"Village"@(3285, -3764)
+[04Jun2025 03:06:58.145] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[04Jun2025 03:07:12.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[04Jun2025 03:07:18.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[04Jun2025 03:07:58.829] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[04Jun2025 03:08:00.124] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[04Jun2025 03:08:00.148] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Fabrioreos moved too quickly! -6.1256541586822095,3.577696675097741,-7.121506608771597
+[04Jun2025 03:08:06.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[04Jun2025 03:08:17.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[04Jun2025 03:08:27.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[04Jun2025 03:08:54.547] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[04Jun2025 03:09:12.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[04Jun2025 03:09:17.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has reached the goal [Strange Mount]
+[04Jun2025 03:09:17.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has made the advancement [Your First Receptacle]
+[04Jun2025 03:09:38.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[04Jun2025 03:10:57.506] [Worker-Main-15/INFO] [antiqueatlas/]: Created new marker #14"Village"@(3665, -4371)
+[04Jun2025 03:11:38.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[04Jun2025 03:12:00.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[04Jun2025 03:12:58.841] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[04Jun2025 03:13:00.145] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[04Jun2025 03:13:00.166] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Fabrioreos moved too quickly! 1.4467994693382025,-2.4470347086035957,-9.718577305578947
+[04Jun2025 03:13:35.337] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1612, y=39, z=-538} BlockPos{x=1612, y=38, z=-539}
+[04Jun2025 03:13:35.396] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1612, y=39, z=-538} BlockPos{x=1612, y=38, z=-539}
+[04Jun2025 03:14:25.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[04Jun2025 03:14:27.002] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
