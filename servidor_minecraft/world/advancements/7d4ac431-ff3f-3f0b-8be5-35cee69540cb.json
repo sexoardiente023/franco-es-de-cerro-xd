@@ -1314,6 +1314,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-06-04 03:45:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2025-05-20 00:32:02 +0000"
@@ -3236,6 +3242,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_black_flower": "2025-06-04 03:46:18 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/arrow_diamond": {
     "criteria": {
       "has_feather": "2025-05-18 21:12:38 +0000"
@@ -3414,6 +3426,7 @@
       "minecraft:beach": "2025-05-23 00:22:16 +0000",
       "minecraft:river": "2025-05-18 21:33:11 +0000",
       "minecraft:lukewarm_ocean": "2025-05-23 00:27:07 +0000",
+      "minecraft:wooded_mountains": "2025-06-04 03:46:26 +0000",
       "minecraft:wooded_hills": "2025-05-18 21:16:38 +0000",
       "minecraft:stone_shore": "2025-06-04 02:24:35 +0000",
       "minecraft:mushroom_field_shore": "2025-05-23 00:19:36 +0000",
