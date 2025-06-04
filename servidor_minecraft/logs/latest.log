@@ -429,3 +429,19 @@ java.util.ConcurrentModificationException: null
 [04Jun2025 02:34:48.120] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy has completed the challenge [Cover Me in Debris]
 [04Jun2025 02:37:57.143] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
 [04Jun2025 02:42:56.596] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[04Jun2025 02:45:03.496] [Worker-Main-15/INFO] [antiqueatlas/]: Created new marker #12"Village"@(4088, -3288)
+[04Jun2025 02:45:33.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[04Jun2025 02:45:53.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[04Jun2025 02:47:56.228] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[04Jun2025 02:47:56.975] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[04Jun2025 02:48:43.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[04Jun2025 02:49:24.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[04Jun2025 02:50:25.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[04Jun2025 02:50:49.792] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[04Jun2025 02:51:02.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[04Jun2025 02:51:07.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has made the advancement [Chest Slayer]
+[04Jun2025 02:52:50.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[04Jun2025 02:52:56.864] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[04Jun2025 02:53:49.186] [Server thread/INFO] [antiqueatlas/]: Created new marker #5"Here lies Fabrioreos"@(3835, -3016)
+[04Jun2025 02:53:49.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos was slain by Zombie
+[04Jun2025 02:53:49.207] [Server thread/INFO] [tombstone/]: The player Fabrioreos has successfully been saved
