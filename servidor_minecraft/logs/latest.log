@@ -264,3 +264,50 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [04Jun2025 01:51:27.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has made the advancement [Magic Disenchantment]
 [04Jun2025 01:51:27.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has made the advancement [Let The Magic Happen]
 [04Jun2025 01:51:28.299] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=143, y=41, z=-6} BlockPos{x=142, y=37, z=-6}
+[04Jun2025 01:52:54.611] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[04Jun2025 01:52:54.954] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[04Jun2025 01:52:55.531] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: chocolinpy lost connection: Disconnected
+[04Jun2025 01:52:55.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy left the game
+[04Jun2025 01:54:41.641] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1f67ccaa
+[04Jun2025 01:54:41.651] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: chocolinpy[/100.115.122.8:63455] logged in with entity id 10187 at (139.90500519059003, 33.0, 7.699999988079071)
+[04Jun2025 01:54:41.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy joined the game
+[04Jun2025 01:54:41.675] [Server thread/INFO] [Waila/]: Syncing config to chocolinpy (034783f3-fbfc-3708-91b0-59525927d190)
+[04Jun2025 01:54:41.676] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player chocolinpy
+[04Jun2025 01:54:41.676] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player chocolinpy
+[04Jun2025 01:54:41.676] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player chocolinpy
+[04Jun2025 01:54:41.677] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player chocolinpy
+[04Jun2025 01:54:41.677] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player chocolinpy
+[04Jun2025 01:54:41.678] [Server thread/INFO] [antiqueatlas/]: Sending dimension #ResourceKey[minecraft:dimension / minecraft:the_nether]
+[04Jun2025 01:54:41.679] [Server thread/INFO] [antiqueatlas/]: Sent dimension #ResourceKey[minecraft:dimension / minecraft:the_nether] (5 tiles)
+[04Jun2025 01:54:41.679] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #4 data to player chocolinpy
+[04Jun2025 01:54:41.679] [Server thread/INFO] [antiqueatlas/]: Sent markers data #4 to player chocolinpy
+[04Jun2025 01:55:18.237] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=139, y=24, z=-5} BlockPos{x=138, y=25, z=-5}
+[04Jun2025 01:55:34.835] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=143, y=13, z=-5} BlockPos{x=142, y=12, z=-5}
+[04Jun2025 01:55:34.883] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=143, y=13, z=-5} BlockPos{x=142, y=12, z=-5}
+[04Jun2025 01:55:34.936] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=143, y=13, z=-5} BlockPos{x=142, y=12, z=-5}
+[04Jun2025 01:55:34.983] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=143, y=13, z=-5} BlockPos{x=142, y=12, z=-5}
+[04Jun2025 01:55:35.036] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=143, y=13, z=-5} BlockPos{x=142, y=12, z=-5}
+[04Jun2025 01:55:35.084] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=143, y=13, z=-5} BlockPos{x=142, y=12, z=-5}
+[04Jun2025 01:55:35.134] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=143, y=13, z=-5} BlockPos{x=142, y=12, z=-5}
+[04Jun2025 01:55:35.183] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=142, y=11, z=-4} BlockPos{x=142, y=12, z=-5}
+[04Jun2025 01:55:38.691] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=139, y=14, z=-4} BlockPos{x=139, y=15, z=-4}
+[04Jun2025 01:55:41.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy has made the advancement [Hidden in the Depths]
+[04Jun2025 01:57:00.342] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[04Jun2025 01:57:43.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[04Jun2025 01:57:46.145] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[04Jun2025 01:57:55.344] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[04Jun2025 01:58:01.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[04Jun2025 01:58:22.739] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=229, y=11, z=-11} BlockPos{x=229, y=10, z=-11}
+[04Jun2025 01:58:22.805] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=230, y=11, z=-11} BlockPos{x=229, y=10, z=-11}
+[04Jun2025 01:58:22.840] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=231, y=11, z=-11} BlockPos{x=229, y=10, z=-11}
+[04Jun2025 01:58:22.893] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=231, y=10, z=-11} BlockPos{x=229, y=10, z=-11}
+[04Jun2025 01:58:22.992] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=231, y=10, z=-11} BlockPos{x=231, y=10, z=-10}
+[04Jun2025 02:00:56.665] [Server thread/INFO] [antiqueatlas/]: Created new marker #3"Here lies Fabrioreos"@(1601, -459)
+[04Jun2025 02:00:56.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos was doomed to fall by FRANCOPR10
+[04Jun2025 02:00:56.735] [Server thread/INFO] [tombstone/]: The player Fabrioreos has successfully been saved
+[04Jun2025 02:01:00.154] [Worker-Main-6/INFO] [antiqueatlas/]: Created new marker #10"Village"@(-254, -154)
+[04Jun2025 02:01:00.154] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: already registered at BlockPos{x=-170, y=26, z=-167}
+[04Jun2025 02:01:30.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set FRANCOPR10's game mode to Spectator Mode]
+[04Jun2025 02:01:38.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set FRANCOPR10's game mode to Survival Mode]
+[04Jun2025 02:02:31.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set Fabrioreos's game mode to Spectator Mode]
+[04Jun2025 02:02:37.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set Fabrioreos's game mode to Survival Mode]
