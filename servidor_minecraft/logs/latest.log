@@ -311,3 +311,41 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [04Jun2025 02:01:38.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set FRANCOPR10's game mode to Survival Mode]
 [04Jun2025 02:02:31.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set Fabrioreos's game mode to Spectator Mode]
 [04Jun2025 02:02:37.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set Fabrioreos's game mode to Survival Mode]
+[04Jun2025 02:02:54.221] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[04Jun2025 02:02:54.221] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[04Jun2025 02:02:54.859] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[04Jun2025 02:03:23.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set Fabrioreos's game mode to Spectator Mode]
+[04Jun2025 02:03:28.581] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set Fabrioreos's game mode to Survival Mode]
+[04Jun2025 02:03:38.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set Fabrioreos's game mode to Adventure Mode]
+[04Jun2025 02:05:08.780] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=144, y=13, z=65} BlockPos{x=144, y=13, z=64}
+[04Jun2025 02:05:08.833] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=144, y=12, z=65} BlockPos{x=144, y=13, z=64}
+[04Jun2025 02:05:08.938] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=144, y=12, z=65} BlockPos{x=143, y=12, z=65}
+[04Jun2025 02:05:09.329] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=144, y=12, z=65} BlockPos{x=143, y=12, z=65}
+[04Jun2025 02:05:09.381] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=144, y=12, z=65} BlockPos{x=143, y=12, z=65}
+[04Jun2025 02:05:09.439] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=144, y=12, z=65} BlockPos{x=143, y=12, z=65}
+[04Jun2025 02:05:09.481] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=144, y=12, z=65} BlockPos{x=143, y=12, z=65}
+[04Jun2025 02:05:09.534] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=144, y=12, z=65} BlockPos{x=143, y=12, z=65}
+[04Jun2025 02:05:09.587] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=144, y=12, z=65} BlockPos{x=143, y=12, z=65}
+[04Jun2025 02:05:28.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set Fabrioreos's game mode to Survival Mode]
+[04Jun2025 02:06:01.482] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=134, y=11, z=49} BlockPos{x=135, y=10, z=49}
+[04Jun2025 02:06:01.534] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=134, y=11, z=49} BlockPos{x=135, y=10, z=49}
+[04Jun2025 02:06:58.841] [Server thread/INFO] [antiqueatlas/]: Created new marker #4"Here lies Fabrioreos"@(1599, -450)
+[04Jun2025 02:06:58.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos was slain by FRANCOPR10
+[04Jun2025 02:06:58.845] [Server thread/INFO] [tombstone/]: The player Fabrioreos has successfully been saved
+[04Jun2025 02:07:09.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: FRANCOPR10 was slain by Fabrioreos
+[04Jun2025 02:07:09.101] [Server thread/INFO] [tombstone/]: The player FRANCOPR10 has successfully been saved
+[04Jun2025 02:07:29.381] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=96, y=11, z=96} BlockPos{x=97, y=10, z=96}
+[04Jun2025 02:07:54.215] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[04Jun2025 02:07:54.778] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[04Jun2025 02:08:34.880] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=90, y=9, z=113} BlockPos{x=89, y=10, z=114}
+[04Jun2025 02:11:09.079] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=97, y=12, z=142} BlockPos{x=97, y=11, z=142}
+[04Jun2025 02:11:34.280] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=109, y=12, z=138} BlockPos{x=109, y=11, z=138}
+[04Jun2025 02:12:48.539] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=110, y=11, z=160} BlockPos{x=110, y=11, z=159}
+[04Jun2025 02:12:48.591] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=110, y=11, z=160} BlockPos{x=110, y=11, z=159}
+[04Jun2025 02:12:54.729] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[04Jun2025 02:12:57.584] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=104, y=9, z=161} BlockPos{x=103, y=9, z=162}
+[04Jun2025 02:12:57.688] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=103, y=9, z=163} BlockPos{x=103, y=9, z=162}
+[04Jun2025 02:12:57.737] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=104, y=11, z=160} BlockPos{x=103, y=9, z=162}
+[04Jun2025 02:12:57.787] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=103, y=11, z=161} BlockPos{x=103, y=9, z=162}
+[04Jun2025 02:12:57.840] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=103, y=11, z=162} BlockPos{x=103, y=9, z=162}
+[04Jun2025 02:12:57.889] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=103, y=11, z=162} BlockPos{x=102, y=11, z=162}
