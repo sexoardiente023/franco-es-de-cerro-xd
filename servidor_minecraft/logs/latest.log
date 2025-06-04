@@ -573,3 +573,27 @@ java.util.ConcurrentModificationException: null
 [04Jun2025 03:49:49.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy left the game
 [04Jun2025 03:53:05.536] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
 [04Jun2025 03:53:48.628] [Worker-Main-6/INFO] [antiqueatlas/]: Created new marker #16"Village"@(3722, -3977)
+[04Jun2025 03:57:21.569] [Worker-Main-16/INFO] [antiqueatlas/]: Created new marker #17"Village"@(4267, -4284)
+[04Jun2025 03:58:05.194] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[04Jun2025 03:58:05.623] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[04Jun2025 03:58:21.961] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/107020, l='ServerLevel[world]', x=4093.51, y=71.80, z=-4732.01] died, message: 'Villager was slain by Zombie Villager'
+[04Jun2025 03:58:31.296] [Worker-Main-15/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: endrem:puzzle_corridor
+[04Jun2025 03:58:31.368] [Worker-Main-15/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[04Jun2025 03:58:31.368] [Worker-Main-15/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[04Jun2025 03:58:31.379] [Worker-Main-15/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[04Jun2025 03:58:31.379] [Worker-Main-15/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[04Jun2025 03:58:31.382] [Worker-Main-15/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[04Jun2025 03:58:31.382] [Worker-Main-15/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[04Jun2025 03:58:31.394] [Worker-Main-15/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[04Jun2025 03:58:31.394] [Worker-Main-15/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[04Jun2025 03:58:31.409] [Worker-Main-15/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[04Jun2025 03:58:31.409] [Worker-Main-15/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[04Jun2025 03:58:31.448] [Worker-Main-15/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[04Jun2025 03:58:31.448] [Worker-Main-15/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[04Jun2025 03:58:31.449] [Worker-Main-15/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[04Jun2025 03:58:31.449] [Worker-Main-15/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[04Jun2025 03:58:31.766] [Worker-Main-15/INFO] [antiqueatlas/]: Created new marker #18"Village"@(4263, -5078)
+[04Jun2025 03:58:41.813] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/107221, l='ServerLevel[world]', x=4070.46, y=75.00, z=-4703.84] died, message: 'Villager was slain by Zombie Villager'
+[04Jun2025 03:59:12.962] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/107220, l='ServerLevel[world]', x=4028.65, y=76.00, z=-4762.41] died, message: 'Villager was slain by Zombie Villager'
+[04Jun2025 04:03:05.186] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[04Jun2025 04:03:06.052] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
