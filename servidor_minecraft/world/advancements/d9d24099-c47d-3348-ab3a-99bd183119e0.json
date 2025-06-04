@@ -419,6 +419,12 @@
     },
     "done": true
   },
+  "the_bumblezone:the_bumblezone/pollen_pile/walk_into_pollen_pile": {
+    "criteria": {
+      "walk_into_pollen_pile": "2025-06-04 01:36:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-05-18 21:16:54 +0000"

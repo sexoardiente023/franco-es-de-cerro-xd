@@ -225,3 +225,25 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [04Jun2025 01:29:36.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <FRANCOPR10> Zzzz
 [04Jun2025 01:29:46.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> sexo
 [04Jun2025 01:29:49.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[04Jun2025 01:32:54.242] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[04Jun2025 01:32:54.779] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[04Jun2025 01:33:10.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Teleported FRANCOPR10 to chocolinpy]
+[04Jun2025 01:36:29.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: FRANCOPR10 has made the advancement [Tons Of Pollen Can't Bee Healthy...]
+[04Jun2025 01:37:54.723] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[04Jun2025 01:40:59.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> zzz
+[04Jun2025 01:41:00.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> sexo
+[04Jun2025 01:41:03.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> digp
+[04Jun2025 01:41:03.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> zzz
+[04Jun2025 01:41:10.247] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3d0fb74f
+[04Jun2025 01:41:10.261] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Fabrioreos[/100.106.168.72:53382] logged in with entity id 4610 at (1078.9488877712029, 62.523264600616436, -2048.2894722027604)
+[04Jun2025 01:41:10.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos joined the game
+[04Jun2025 01:41:10.301] [Server thread/INFO] [Waila/]: Syncing config to Fabrioreos (7d4ac431-ff3f-3f0b-8be5-35cee69540cb)
+[04Jun2025 01:41:10.302] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player Fabrioreos
+[04Jun2025 01:41:10.303] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[04Jun2025 01:41:10.304] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[04Jun2025 01:41:10.304] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[04Jun2025 01:41:10.305] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[04Jun2025 01:41:10.316] [Server thread/INFO] [antiqueatlas/]: Sending dimension #ResourceKey[minecraft:dimension / minecraft:overworld]
+[04Jun2025 01:41:10.321] [Server thread/INFO] [antiqueatlas/]: Sent dimension #ResourceKey[minecraft:dimension / minecraft:overworld] (72 tiles)
+[04Jun2025 01:41:10.321] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #2 data to player Fabrioreos
+[04Jun2025 01:41:10.322] [Server thread/INFO] [antiqueatlas/]: Sent markers data #2 to player Fabrioreos
