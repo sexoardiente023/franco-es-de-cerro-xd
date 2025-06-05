@@ -232,3 +232,11 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [05Jun2025 04:41:36.344] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
 [05Jun2025 04:41:36.929] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
 [05Jun2025 04:42:05.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Teleported chocolinpy to Fabrioreos]
+[05Jun2025 04:46:36.655] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[05Jun2025 04:48:17.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has made the advancement [Not the Olympic Type]
+[05Jun2025 04:48:19.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has made the advancement [Pike Off!]
+[05Jun2025 04:48:53.145] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[05Jun2025 04:50:36.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has made the advancement [Hidden in the Depths]
+[05Jun2025 04:51:36.654] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[05Jun2025 04:54:25.714] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Fabrioreos moved wrongly!
+[05Jun2025 04:54:31.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
