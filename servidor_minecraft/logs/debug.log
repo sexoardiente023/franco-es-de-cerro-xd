@@ -3838,3 +3838,114 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [05Jun2025 04:55:57.342] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
 [05Jun2025 04:55:57.393] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
 [05Jun2025 04:55:57.441] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[05Jun2025 04:56:09.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has made the advancement [What a Deal!]
+[05Jun2025 04:56:36.613] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[05Jun2025 04:56:36.614] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[05Jun2025 04:56:36.619] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[05Jun2025 04:59:25.691] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[05Jun2025 04:59:25.691] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jun2025 04:59:26.718] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[05Jun2025 04:59:26.718] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jun2025 04:59:27.255] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[05Jun2025 04:59:27.256] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jun2025 04:59:50.240] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[05Jun2025 04:59:50.241] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jun2025 04:59:50.803] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[05Jun2025 04:59:50.803] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jun2025 04:59:51.345] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[05Jun2025 04:59:51.345] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jun2025 04:59:52.706] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[05Jun2025 04:59:52.707] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jun2025 04:59:53.843] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[05Jun2025 04:59:53.844] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jun2025 05:00:16.915] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[05Jun2025 05:00:16.915] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jun2025 05:00:17.441] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[05Jun2025 05:00:17.441] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jun2025 05:00:19.441] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[05Jun2025 05:00:19.442] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jun2025 05:00:20.649] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[05Jun2025 05:00:20.650] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jun2025 05:00:27.893] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[05Jun2025 05:00:27.893] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jun2025 05:00:30.345] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[05Jun2025 05:00:30.345] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jun2025 05:00:54.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[05Jun2025 05:01:10.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[05Jun2025 05:01:16.998] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[05Jun2025 05:01:16.998] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jun2025 05:01:18.061] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[05Jun2025 05:01:18.061] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jun2025 05:01:18.615] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[05Jun2025 05:01:18.616] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jun2025 05:01:19.143] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[05Jun2025 05:01:19.144] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jun2025 05:01:19.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy has reached the goal [Upgrade Me with Debris]
+[05Jun2025 05:01:20.199] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[05Jun2025 05:01:20.200] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jun2025 05:01:34.241] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[05Jun2025 05:01:34.242] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jun2025 05:01:36.740] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[05Jun2025 05:01:36.741] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[05Jun2025 05:01:36.745] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[05Jun2025 05:01:36.758] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[05Jun2025 05:01:36.758] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jun2025 05:01:38.399] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[05Jun2025 05:01:38.400] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jun2025 05:01:39.966] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[05Jun2025 05:01:39.968] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jun2025 05:01:44.015] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[05Jun2025 05:01:44.016] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jun2025 05:01:44.592] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[05Jun2025 05:01:44.592] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jun2025 05:01:45.596] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[05Jun2025 05:01:45.597] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jun2025 05:01:48.057] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[05Jun2025 05:01:48.057] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jun2025 05:01:51.497] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[05Jun2025 05:02:04.498] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[05Jun2025 05:02:06.050] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[05Jun2025 05:02:06.050] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jun2025 05:02:07.124] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[05Jun2025 05:02:07.124] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jun2025 05:02:08.192] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[05Jun2025 05:02:08.192] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jun2025 05:02:09.192] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[05Jun2025 05:02:09.193] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jun2025 05:02:09.765] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[05Jun2025 05:02:09.766] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jun2025 05:02:11.765] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[05Jun2025 05:02:11.766] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Jun2025 05:02:21.207] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[05Jun2025 05:02:28.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[05Jun2025 05:03:00.152] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 25.0%
+[05Jun2025 05:03:00.152] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 20.0 Armor value: 2.0 Damage ignoring armor (25.0% damage): 5.0 Damage not ignoring armor: 15.0 Reduced Damage: 14.76 Result Damage: 19.76
+[05Jun2025 05:03:05.339] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 25.0%
+[05Jun2025 05:03:05.339] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 24.0 Armor value: 2.0 Damage ignoring armor (25.0% damage): 6.0 Damage not ignoring armor: 18.0 Reduced Damage: 17.712 Result Damage: 23.712
+[05Jun2025 05:03:13.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Teleported chocolinpy to Fabrioreos]
+[05Jun2025 05:04:24.080] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[05Jun2025 05:04:24.131] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[05Jun2025 05:04:24.184] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[05Jun2025 05:04:24.232] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[05Jun2025 05:04:24.279] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[05Jun2025 05:04:24.329] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[05Jun2025 05:04:24.379] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[05Jun2025 05:04:24.430] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[05Jun2025 05:04:24.482] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[05Jun2025 05:04:24.530] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[05Jun2025 05:04:24.580] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[05Jun2025 05:04:24.630] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[05Jun2025 05:04:24.679] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[05Jun2025 05:04:40.192] [Server thread/INFO] [antiqueatlas/]: Created new marker #6"Here lies Fabrioreos"@(2860, -2595)
+[05Jun2025 05:04:40.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos was doomed to fall by Phantom
+[05Jun2025 05:04:40.202] [Server thread/DEBUG] [tombstone/]: A new grave of the player Fabrioreos was created at position [x:2859, y:135, z:-2595, dim:minecraft:overworld]
+[05Jun2025 05:04:40.206] [Server thread/INFO] [tombstone/]: The player Fabrioreos has successfully been saved
+[05Jun2025 05:04:42.362] [Worker-Main-12/INFO] [antiqueatlas/]: Created new marker #23"Village"@(-262, -157)
+[05Jun2025 05:04:43.765] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[05Jun2025 05:05:00.207] [Server thread/INFO] [antiqueatlas/]: Created new marker #7"Here lies Fabrioreos"@(2852, -2591)
+[05Jun2025 05:05:00.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has reached the goal [Chain Death]
+[05Jun2025 05:05:00.210] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos was doomed to fall
+[05Jun2025 05:05:00.211] [Server thread/DEBUG] [tombstone/]: A new grave of the player Fabrioreos was created at position [x:2851, y:79, z:-2592, dim:minecraft:overworld]
+[05Jun2025 05:05:00.212] [Server thread/INFO] [tombstone/]: The player Fabrioreos has successfully been saved
+[05Jun2025 05:05:10.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[05Jun2025 05:05:48.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]

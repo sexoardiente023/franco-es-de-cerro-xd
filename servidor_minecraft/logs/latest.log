@@ -240,3 +240,24 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [05Jun2025 04:51:36.654] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
 [05Jun2025 04:54:25.714] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Fabrioreos moved wrongly!
 [05Jun2025 04:54:31.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[05Jun2025 04:56:09.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has made the advancement [What a Deal!]
+[05Jun2025 04:56:36.613] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[05Jun2025 05:00:54.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[05Jun2025 05:01:10.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[05Jun2025 05:01:19.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy has reached the goal [Upgrade Me with Debris]
+[05Jun2025 05:01:36.740] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[05Jun2025 05:01:51.497] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[05Jun2025 05:02:04.498] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[05Jun2025 05:02:21.207] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[05Jun2025 05:02:28.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[05Jun2025 05:03:13.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Teleported chocolinpy to Fabrioreos]
+[05Jun2025 05:04:40.192] [Server thread/INFO] [antiqueatlas/]: Created new marker #6"Here lies Fabrioreos"@(2860, -2595)
+[05Jun2025 05:04:40.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos was doomed to fall by Phantom
+[05Jun2025 05:04:40.206] [Server thread/INFO] [tombstone/]: The player Fabrioreos has successfully been saved
+[05Jun2025 05:04:42.362] [Worker-Main-12/INFO] [antiqueatlas/]: Created new marker #23"Village"@(-262, -157)
+[05Jun2025 05:05:00.207] [Server thread/INFO] [antiqueatlas/]: Created new marker #7"Here lies Fabrioreos"@(2852, -2591)
+[05Jun2025 05:05:00.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has reached the goal [Chain Death]
+[05Jun2025 05:05:00.210] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos was doomed to fall
+[05Jun2025 05:05:00.212] [Server thread/INFO] [tombstone/]: The player Fabrioreos has successfully been saved
+[05Jun2025 05:05:10.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[05Jun2025 05:05:48.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]

@@ -3962,6 +3962,12 @@
     },
     "done": true
   },
+  "spartanweaponry:upgrade_netherite_weapon": {
+    "criteria": {
+      "has_netherite_weapon": "2025-06-05 05:01:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2025-05-18 21:34:12 +0000"
