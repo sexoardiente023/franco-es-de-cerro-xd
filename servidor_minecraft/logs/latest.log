@@ -261,3 +261,7 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [05Jun2025 05:05:00.212] [Server thread/INFO] [tombstone/]: The player Fabrioreos has successfully been saved
 [05Jun2025 05:05:10.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
 [05Jun2025 05:05:48.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[05Jun2025 05:06:36.279] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[05Jun2025 05:06:36.280] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[05Jun2025 05:06:36.600] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[05Jun2025 05:11:36.428] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
