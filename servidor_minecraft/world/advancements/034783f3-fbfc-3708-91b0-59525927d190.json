@@ -1448,6 +1448,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_disenchantment": {
+    "criteria": {
+      "coded_trigger": "2025-06-05 05:25:20 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/saber_wood": {
     "criteria": {
       "has_wood": "2025-05-18 21:19:13 +0000"
@@ -3682,6 +3688,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-05-19 02:26:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2025-06-05 05:25:20 +0000"
     },
     "done": true
   },
