@@ -283,3 +283,26 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [05Jun2025 05:35:45.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
 [05Jun2025 05:35:54.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has made the advancement [Black or White]
 [05Jun2025 05:36:36.806] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[05Jun2025 05:38:34.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[05Jun2025 05:41:29.297] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: chocolinpy lost connection: Timed out
+[05Jun2025 05:41:29.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy left the game
+[05Jun2025 05:41:29.344] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[05Jun2025 05:41:36.537] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[05Jun2025 05:42:03.909] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@773112ed
+[05Jun2025 05:42:03.919] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: chocolinpy[/100.115.122.8:64835] logged in with entity id 24331 at (1856.3581029964805, 75.0, -662.6453963178019)
+[05Jun2025 05:42:03.927] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy joined the game
+[05Jun2025 05:42:03.951] [Server thread/INFO] [Waila/]: Syncing config to chocolinpy (034783f3-fbfc-3708-91b0-59525927d190)
+[05Jun2025 05:42:03.953] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player chocolinpy
+[05Jun2025 05:42:03.953] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player chocolinpy
+[05Jun2025 05:42:03.954] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player chocolinpy
+[05Jun2025 05:42:03.954] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player chocolinpy
+[05Jun2025 05:42:03.954] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player chocolinpy
+[05Jun2025 05:42:03.956] [Server thread/INFO] [antiqueatlas/]: Sending dimension #ResourceKey[minecraft:dimension / minecraft:overworld]
+[05Jun2025 05:42:03.961] [Server thread/INFO] [antiqueatlas/]: Sent dimension #ResourceKey[minecraft:dimension / minecraft:overworld] (76 tiles)
+[05Jun2025 05:42:03.961] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #4 data to player chocolinpy
+[05Jun2025 05:42:03.962] [Server thread/INFO] [antiqueatlas/]: Sent markers data #4 to player chocolinpy
+[05Jun2025 05:42:12.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[05Jun2025 05:42:28.146] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[05Jun2025 05:42:50.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[05Jun2025 05:43:02.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[05Jun2025 05:46:36.663] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
