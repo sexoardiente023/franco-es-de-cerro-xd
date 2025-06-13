@@ -413,3 +413,6 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [13Jun2025 02:53:52.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has made the advancement [Hot Stuff]
 [13Jun2025 02:58:29.488] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
 [13Jun2025 03:03:28.882] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[13Jun2025 03:06:32.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Teleported chocolinpy to Fabrioreos]
+[13Jun2025 03:08:28.777] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[13Jun2025 03:13:28.754] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]

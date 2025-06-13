@@ -22146,3 +22146,11 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [13Jun2025 03:05:03.909] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
 [13Jun2025 03:05:23.425] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
 [13Jun2025 03:05:24.711] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Jun2025 03:06:32.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Teleported chocolinpy to Fabrioreos]
+[13Jun2025 03:08:28.777] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[13Jun2025 03:08:28.778] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[13Jun2025 03:08:28.781] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[13Jun2025 03:12:45.705] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Jun2025 03:13:28.754] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[13Jun2025 03:13:28.754] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[13Jun2025 03:13:28.758] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
