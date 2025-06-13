@@ -473,6 +473,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2025-06-13 02:45:02 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/rapier_stone": {
     "criteria": {
       "has_cobblestone": "2025-05-18 21:23:54 +0000"
@@ -524,6 +530,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/quarterstaff_netherite_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-04 02:30:14 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2025-06-13 02:48:13 +0000"
     },
     "done": true
   },

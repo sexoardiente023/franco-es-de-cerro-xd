@@ -467,6 +467,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2025-06-13 02:45:02 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/rapier_stone": {
     "criteria": {
       "has_cobblestone": "2025-05-18 21:16:30 +0000"
@@ -518,6 +524,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-05-20 00:43:43 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2025-06-13 02:48:07 +0000"
     },
     "done": true
   },
@@ -2982,6 +2994,7 @@
       "minecraft:vindicator": "2025-05-19 01:45:40 +0000",
       "minecraft:magma_cube": "2025-05-23 02:41:57 +0000",
       "minecraft:spider": "2025-05-18 22:02:23 +0000",
+      "minecraft:piglin_brute": "2025-06-13 02:48:12 +0000",
       "minecraft:creeper": "2025-05-19 01:22:16 +0000",
       "minecraft:phantom": "2025-05-23 01:04:40 +0000",
       "minecraft:zombified_piglin": "2025-05-23 02:47:12 +0000",
