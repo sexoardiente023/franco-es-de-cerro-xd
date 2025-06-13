@@ -259,3 +259,23 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [13Jun2025 01:12:13.494] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy has made the advancement [Going Clubbing]
 [13Jun2025 01:12:17.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy has made the advancement [Blunt-force Trauma]
 [13Jun2025 01:13:29.052] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[13Jun2025 01:13:47.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Teleported chocolinpy to Fabrioreos]
+[13Jun2025 01:17:34.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[13Jun2025 01:18:23.212] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Fabrioreos lost connection: Disconnected
+[13Jun2025 01:18:23.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos left the game
+[13Jun2025 01:18:25.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> sexo
+[13Jun2025 01:18:28.931] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[13Jun2025 01:18:30.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> ricco
+[13Jun2025 01:18:33.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chocolinpy> ayy
+[13Jun2025 01:18:33.866] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@406b511d
+[13Jun2025 01:18:33.876] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Fabrioreos[/100.106.168.72:57629] logged in with entity id 12763 at (6760.5, 63.0, -8202.5)
+[13Jun2025 01:18:33.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos joined the game
+[13Jun2025 01:18:33.897] [Server thread/INFO] [Waila/]: Syncing config to Fabrioreos (7d4ac431-ff3f-3f0b-8be5-35cee69540cb)
+[13Jun2025 01:18:33.898] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player Fabrioreos
+[13Jun2025 01:18:33.898] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[13Jun2025 01:18:33.898] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[13Jun2025 01:18:33.898] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[13Jun2025 01:18:33.899] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[13Jun2025 01:20:40.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has made the advancement [Strange Encounter]
+[13Jun2025 01:21:40.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[13Jun2025 01:23:29.063] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
