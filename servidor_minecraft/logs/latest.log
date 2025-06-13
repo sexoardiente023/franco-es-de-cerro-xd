@@ -228,3 +228,6 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [13Jun2025 00:51:13.016] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #2 data to player Fabrioreos
 [13Jun2025 00:51:13.019] [Server thread/INFO] [antiqueatlas/]: Sent markers data #2 to player Fabrioreos
 [13Jun2025 00:52:56.826] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: chocolinpy moved wrongly!
+[13Jun2025 00:53:28.612] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[13Jun2025 00:53:29.270] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[13Jun2025 00:58:28.851] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
