@@ -338,3 +338,36 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [13Jun2025 02:23:33.317] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/38862, l='ServerLevel[world]', x=-750.63, y=64.01, z=-2363.39]
 [13Jun2025 02:24:21.069] [Worker-Main-21/INFO] [antiqueatlas/]: Created new marker #27"Village"@(-923, -2043)
 [13Jun2025 02:24:45.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy has made the advancement [Halberdier]
+[13Jun2025 02:26:58.709] [Worker-Main-21/INFO] [antiqueatlas/]: Created new marker #28"Village"@(-1297, -2436)
+[13Jun2025 02:28:00.169] [Worker-Main-21/INFO] [antiqueatlas/]: Created new marker #29"Village"@(-1506, -2828)
+[13Jun2025 02:28:28.575] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[13Jun2025 02:28:29.379] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[13Jun2025 02:29:22.263] [Worker-Main-20/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: endrem:puzzle_corridor
+[13Jun2025 02:29:22.289] [Worker-Main-20/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[13Jun2025 02:29:22.290] [Worker-Main-20/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[13Jun2025 02:29:22.301] [Worker-Main-20/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[13Jun2025 02:29:22.302] [Worker-Main-20/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[13Jun2025 02:29:22.313] [Worker-Main-20/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[13Jun2025 02:29:22.313] [Worker-Main-20/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[13Jun2025 02:29:22.325] [Worker-Main-20/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[13Jun2025 02:29:22.326] [Worker-Main-20/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[13Jun2025 02:29:31.539] [Worker-Main-20/INFO] [antiqueatlas/]: Created new marker #30"Village"@(-1928, -2539)
+[13Jun2025 02:30:17.516] [Worker-Main-20/ERROR] [net.minecraft.world.gen.feature.DungeonsFeature/]: Failed to fetch mob spawner entity at (-2001, 32, -2870)
+[13Jun2025 02:30:21.589] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-2001, y=32, z=-2870}
+[13Jun2025 02:30:31.626] [Worker-Main-21/INFO] [antiqueatlas/]: Created new marker #31"Village"@(-2224, -3027)
+[13Jun2025 02:31:27.689] [Worker-Main-21/INFO] [antiqueatlas/]: Created new marker #32"Village"@(-2350, -3407)
+[13Jun2025 02:32:03.360] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: endrem:puzzle_corridor
+[13Jun2025 02:32:03.406] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[13Jun2025 02:32:03.406] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[13Jun2025 02:32:03.413] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[13Jun2025 02:32:03.413] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[13Jun2025 02:32:03.419] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[13Jun2025 02:32:03.419] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[13Jun2025 02:32:03.432] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[13Jun2025 02:32:03.432] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[13Jun2025 02:32:03.449] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[13Jun2025 02:32:03.449] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[13Jun2025 02:32:03.451] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[13Jun2025 02:32:03.451] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[13Jun2025 02:33:28.598] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[13Jun2025 02:33:29.487] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]

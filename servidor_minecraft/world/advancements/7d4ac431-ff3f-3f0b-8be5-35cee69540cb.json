@@ -641,6 +641,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_giant_mushroom": {
+    "criteria": {
+      "location0": "2025-06-13 02:24:05 +0000"
+    },
+    "done": true
+  },
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2025-05-18 21:16:19 +0000"
@@ -1854,6 +1860,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-05-18 21:30:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-06-13 02:25:01 +0000"
     },
     "done": true
   },
