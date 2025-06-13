@@ -306,3 +306,35 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [13Jun2025 02:03:27.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
 [13Jun2025 02:03:28.864] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
 [13Jun2025 02:04:26.210] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[13Jun2025 02:06:41.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[13Jun2025 02:07:35.660] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[13Jun2025 02:08:20.056] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[13Jun2025 02:08:28.882] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[13Jun2025 02:10:15.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set the time to 1000]
+[13Jun2025 02:10:29.523] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[13Jun2025 02:10:35.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[13Jun2025 02:13:29.045] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[13Jun2025 02:14:41.910] [Worker-Main-21/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: endrem:puzzle_corridor
+[13Jun2025 02:14:42.017] [Worker-Main-21/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[13Jun2025 02:14:42.017] [Worker-Main-21/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[13Jun2025 02:14:42.030] [Worker-Main-21/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[13Jun2025 02:14:42.031] [Worker-Main-21/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[13Jun2025 02:14:42.038] [Worker-Main-21/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[13Jun2025 02:14:42.038] [Worker-Main-21/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[13Jun2025 02:15:36.486] [Worker-Main-20/INFO] [antiqueatlas/]: Created new marker #24"Village"@(605, -1535)
+[13Jun2025 02:16:06.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy has made the advancement [Who is Cutting Onions?]
+[13Jun2025 02:17:35.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Teleported chocolinpy to Fabrioreos]
+[13Jun2025 02:18:28.597] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[13Jun2025 02:18:29.527] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[13Jun2025 02:18:29.545] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Fabrioreos moved too quickly! 5.525158626770462,-1.8090171402631938,-8.785322012503912
+[13Jun2025 02:19:30.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has made the advancement [Who is Cutting Onions?]
+[13Jun2025 02:22:19.237] [Worker-Main-4/INFO] [antiqueatlas/]: Created new marker #25"Village"@(-295, -2788)
+[13Jun2025 02:22:51.162] [Worker-Main-21/INFO] [antiqueatlas/]: Created new marker #26"Village"@(-732, -2839)
+[13Jun2025 02:23:10.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy has made the advancement [People Are Strange]
+[13Jun2025 02:23:14.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has made the advancement [People Are Strange]
+[13Jun2025 02:23:28.588] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[13Jun2025 02:23:29.464] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[13Jun2025 02:23:29.483] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Fabrioreos moved too quickly! 9.548967697827948,0.8375150322867881,-3.5106407948310334
+[13Jun2025 02:23:33.317] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/38862, l='ServerLevel[world]', x=-750.63, y=64.01, z=-2363.39]
+[13Jun2025 02:24:21.069] [Worker-Main-21/INFO] [antiqueatlas/]: Created new marker #27"Village"@(-923, -2043)
+[13Jun2025 02:24:45.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy has made the advancement [Halberdier]
