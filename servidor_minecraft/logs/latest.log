@@ -231,3 +231,31 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [13Jun2025 00:53:28.612] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
 [13Jun2025 00:53:29.270] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
 [13Jun2025 00:58:28.851] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[13Jun2025 01:03:28.988] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[13Jun2025 01:04:01.408] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Fabrioreos lost connection: Disconnected
+[13Jun2025 01:04:01.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos left the game
+[13Jun2025 01:04:06.965] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5b4508d5
+[13Jun2025 01:04:06.975] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Fabrioreos[/100.106.168.72:57350] logged in with entity id 6021 at (1055.300000011921, 60.0, -2020.487669120937)
+[13Jun2025 01:04:06.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos joined the game
+[13Jun2025 01:04:06.996] [Server thread/INFO] [Waila/]: Syncing config to Fabrioreos (7d4ac431-ff3f-3f0b-8be5-35cee69540cb)
+[13Jun2025 01:04:06.997] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player Fabrioreos
+[13Jun2025 01:04:06.997] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[13Jun2025 01:04:06.998] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[13Jun2025 01:04:06.998] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[13Jun2025 01:04:06.999] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[13Jun2025 01:04:14.157] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Fabrioreos lost connection: Disconnected
+[13Jun2025 01:04:14.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos left the game
+[13Jun2025 01:04:20.874] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2cc0b8ea
+[13Jun2025 01:04:20.887] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Fabrioreos[/100.106.168.72:57355] logged in with entity id 6339 at (1055.4762541060984, 60.0, -2020.300000011921)
+[13Jun2025 01:04:20.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos joined the game
+[13Jun2025 01:04:20.905] [Server thread/INFO] [Waila/]: Syncing config to Fabrioreos (7d4ac431-ff3f-3f0b-8be5-35cee69540cb)
+[13Jun2025 01:04:20.906] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player Fabrioreos
+[13Jun2025 01:04:20.906] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[13Jun2025 01:04:20.907] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[13Jun2025 01:04:20.907] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[13Jun2025 01:04:20.907] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Fabrioreos
+[13Jun2025 01:06:14.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy has made the advancement [Strange Encounter]
+[13Jun2025 01:08:29.181] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[13Jun2025 01:12:13.494] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy has made the advancement [Going Clubbing]
+[13Jun2025 01:12:17.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy has made the advancement [Blunt-force Trauma]
+[13Jun2025 01:13:29.052] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
