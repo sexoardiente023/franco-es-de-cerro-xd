@@ -371,3 +371,35 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [13Jun2025 02:32:03.451] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
 [13Jun2025 02:33:28.598] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
 [13Jun2025 02:33:29.487] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[13Jun2025 02:37:51.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has made the advancement [PI-KA-CHU]
+[13Jun2025 02:38:29.586] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[13Jun2025 02:39:27.807] [Worker-Main-21/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: endrem:puzzle_corridor
+[13Jun2025 02:39:27.840] [Worker-Main-21/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[13Jun2025 02:39:27.840] [Worker-Main-21/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[13Jun2025 02:39:27.841] [Worker-Main-21/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[13Jun2025 02:39:27.842] [Worker-Main-21/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[13Jun2025 02:39:27.897] [Worker-Main-21/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[13Jun2025 02:39:27.897] [Worker-Main-21/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[13Jun2025 02:39:27.937] [Worker-Main-21/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[13Jun2025 02:39:27.937] [Worker-Main-21/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[13Jun2025 02:40:10.960] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: chocolinpy lost connection: Timed out
+[13Jun2025 02:40:10.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy left the game
+[13Jun2025 02:40:11.032] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[13Jun2025 02:42:52.909] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@60e05447
+[13Jun2025 02:42:52.918] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: chocolinpy[/100.115.122.8:53600] logged in with entity id 57826 at (-3884.300000011921, 64.0, -3840.300000011921)
+[13Jun2025 02:42:52.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy joined the game
+[13Jun2025 02:42:52.952] [Server thread/INFO] [Waila/]: Syncing config to chocolinpy (034783f3-fbfc-3708-91b0-59525927d190)
+[13Jun2025 02:42:52.953] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player chocolinpy
+[13Jun2025 02:42:52.953] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player chocolinpy
+[13Jun2025 02:42:52.954] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player chocolinpy
+[13Jun2025 02:42:52.954] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player chocolinpy
+[13Jun2025 02:42:52.954] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player chocolinpy
+[13Jun2025 02:42:52.956] [Server thread/INFO] [antiqueatlas/]: Sending dimension #ResourceKey[minecraft:dimension / minecraft:overworld]
+[13Jun2025 02:42:52.961] [Server thread/INFO] [antiqueatlas/]: Sent dimension #ResourceKey[minecraft:dimension / minecraft:overworld] (137 tiles)
+[13Jun2025 02:42:52.962] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #4 data to player chocolinpy
+[13Jun2025 02:42:52.962] [Server thread/INFO] [antiqueatlas/]: Sent markers data #4 to player chocolinpy
+[13Jun2025 02:43:29.648] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]
+[13Jun2025 02:44:06.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Teleported chocolinpy to Fabrioreos]
+[13Jun2025 02:45:01.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [chocolinpy: Teleported chocolinpy to Fabrioreos]
+[13Jun2025 02:45:02.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fabrioreos has made the advancement [Guns and Roses]
+[13Jun2025 02:45:02.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chocolinpy has made the advancement [Guns and Roses]

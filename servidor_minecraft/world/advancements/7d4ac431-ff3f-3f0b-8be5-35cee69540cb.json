@@ -1857,6 +1857,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-06-13 02:36:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-05-18 21:30:51 +0000"
@@ -4375,6 +4381,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-06-13 02:36:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_dark_oak_planks": "2025-05-23 00:31:54 +0000"
@@ -4396,6 +4408,12 @@
   "paraglider:recipes/paraglider/cosmetic/goddess_statue": {
     "criteria": {
       "has_goddess_statue": "2025-05-23 01:02:55 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/jellyfish_necklace": {
+    "criteria": {
+      "obtain_relic": "2025-06-13 02:37:51 +0000"
     },
     "done": true
   },
